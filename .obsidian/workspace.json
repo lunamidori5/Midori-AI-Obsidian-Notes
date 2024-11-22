@@ -15,8 +15,8 @@
               "state": {
                 "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
                 "viewState": {
-                  "x": -2366.7977626099478,
-                  "y": -385.9667337093209,
+                  "x": -4066.4201680638193,
+                  "y": -694.0396121172427,
                   "zoom": -1.384484818867096
                 }
               },
@@ -52,8 +52,7 @@
               "title": "WA-Inst-9-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b86d4c0586b8129",
+  "active": "c7f35180536daaed",
   "lastOpenFiles": [
-    "Carly/README.md",
     "Concept and Feature Exploration - Wish List.md",
+    "Carly/README.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
