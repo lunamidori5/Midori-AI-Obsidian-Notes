@@ -141,7 +141,6 @@
       "y": -620,
       "width": 980,
       "height": 300,
-      "color": "1",
       "label": "File Communication"
     },
     {
@@ -274,7 +273,6 @@
       "y": 100,
       "width": 600,
       "height": 220,
-      "color": "1",
       "label": "Legacy 14b Mixed Diffusion Interrogation"
     },
     {
@@ -296,6 +294,161 @@
       "width": 400,
       "height": 300,
       "label": "Queue File Validation"
+    },
+    {
+      "id": "dbad7fc92865d2c8",
+      "type": "text",
+      "text": "## Commit User Database",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "x": -5080,
+      "y": -345,
+      "width": 320,
+      "height": 70
+    },
+    {
+      "id": "7efe83465bb8b4ea",
+      "type": "text",
+      "text": "## Internet Knowledge Resource ",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": -1111,
+      "width": 740,
+      "height": 60
+    },
+    {
+      "id": "6da9434e2cd6b5cf",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+      "subpath": "#File Upsert",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -490,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "0d43964e41638bc3",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+      "subpath": "#Command Preprocessing",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -390,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "921d2ddd03c38e1d",
+      "type": "text",
+      "text": "## Global Memory Database (Long Term Memory)",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": -1031,
+      "width": 740,
+      "height": 61
+    },
+    {
+      "id": "eb28b4d51b2bf229",
+      "type": "text",
+      "text": "## Vetted Knowledge Database (Read-Only Memory)",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": -951,
+      "width": 740,
+      "height": 60
+    },
+    {
+      "id": "cf0f6c657c0f8ad6",
+      "type": "text",
+      "text": "## Per-Profile Vector Memory (Photo-Based Recollection)",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": -871,
+      "width": 740,
+      "height": 60
+    },
+    {
+      "id": "6e922cf1bba72fcd",
+      "type": "text",
+      "text": "# FORCE QBOT REBOOT!",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -4610,
+      "y": -2000,
+      "width": 360,
+      "height": 363,
+      "color": "1"
+    },
+    {
+      "id": "00ed45a130ccc5db",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+      "subpath": "#Load User Data",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -610,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "21189e670dd03d01",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+      "subpath": "#Command Recognition",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -90,
+      "width": 320,
+      "height": 160
+    },
+    {
+      "id": "04a3e765da5a35f2",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+      "styleAttributes": {},
+      "subpath": "#Message Sterilization",
+      "x": -6000,
+      "y": -730,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "99c6c993242b2a0b",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+      "subpath": "#User Candidacy",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -850,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "d1d37bb714685fd2",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+      "subpath": "#Command Processing",
+      "styleAttributes": {},
+      "x": -5080,
+      "y": -90,
+      "width": 320,
+      "height": 160
+    },
+    {
+      "id": "e9390ce0cbb038da",
+      "type": "file",
+      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+      "subpath": "#Logging",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": -1091,
+      "width": 320,
+      "height": 61
     },
     {
       "id": "0e6fae694679496f",
@@ -343,19 +496,6 @@
       "height": 60
     },
     {
-      "id": "dbad7fc92865d2c8",
-      "type": "text",
-      "text": "## Commit User Database",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "x": -5080,
-      "y": -345,
-      "width": 320,
-      "height": 70
-    },
-    {
       "id": "1645e313eb9390c4",
       "type": "text",
       "text": "## Modify User Database",
@@ -367,134 +507,6 @@
       "y": -490,
       "width": 320,
       "height": 60
-    },
-    {
-      "id": "7efe83465bb8b4ea",
-      "type": "text",
-      "text": "## Internet Knowledge Resource ",
-      "styleAttributes": {},
-      "x": -5500,
-      "y": -1111,
-      "width": 740,
-      "height": 60
-    },
-    {
-      "id": "00ed45a130ccc5db",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "subpath": "#Load User Data",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -610,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "6da9434e2cd6b5cf",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "subpath": "#File Upsert",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -490,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "0d43964e41638bc3",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "subpath": "#Command Preprocessing",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -390,
-      "width": 320,
-      "height": 100
-    },
-    {
-      "id": "21189e670dd03d01",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "subpath": "#Command Recognition",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -90,
-      "width": 320,
-      "height": 160
-    },
-    {
-      "id": "921d2ddd03c38e1d",
-      "type": "text",
-      "text": "## Global Memory Database (Long Term Memory)",
-      "styleAttributes": {},
-      "x": -5500,
-      "y": -1031,
-      "width": 740,
-      "height": 61
-    },
-    {
-      "id": "eb28b4d51b2bf229",
-      "type": "text",
-      "text": "## Vetted Knowledge Database (Read-Only Memory)",
-      "styleAttributes": {},
-      "x": -5500,
-      "y": -951,
-      "width": 740,
-      "height": 60
-    },
-    {
-      "id": "cf0f6c657c0f8ad6",
-      "type": "text",
-      "text": "## Per-Profile Vector Memory (Photo-Based Recollection)",
-      "styleAttributes": {},
-      "x": -5500,
-      "y": -871,
-      "width": 740,
-      "height": 60
-    },
-    {
-      "id": "04a3e765da5a35f2",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "styleAttributes": {},
-      "subpath": "#Message Sterilization",
-      "x": -6000,
-      "y": -730,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "99c6c993242b2a0b",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "subpath": "#User Candidacy",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -850,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "d1d37bb714685fd2",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "subpath": "#Command Processing",
-      "styleAttributes": {},
-      "x": -5080,
-      "y": -90,
-      "width": 320,
-      "height": 160
-    },
-    {
-      "id": "e9390ce0cbb038da",
-      "type": "file",
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "subpath": "#Logging",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": -1091,
-      "width": 320,
-      "height": 61
     },
     {
       "id": "88688ea3d654f971",
@@ -533,33 +545,130 @@
       "height": 80
     },
     {
-      "id": "90a63964d496dd78",
+      "id": "8ca3f35f981f556b",
       "type": "text",
-      "text": "Message Vectors",
+      "text": "Queue File",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -4560,
+      "y": -580,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "5fdba8374c7ec3cb",
+      "type": "text",
+      "text": "UNCLIP Interpreter",
       "styleAttributes": {},
-      "x": -2480,
-      "y": -820,
-      "width": 280,
+      "x": -2340,
+      "y": 210,
+      "width": 240,
+      "height": 90
+    },
+    {
+      "id": "c93a28609cd39a8e",
+      "type": "text",
+      "text": "UNLOCK MODEL",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1760,
+      "y": 120,
+      "width": 178,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "bcf3bc925a1cf328",
+      "type": "text",
+      "text": "CLIP Conversion",
+      "styleAttributes": {},
+      "x": -2080,
+      "y": -980,
+      "width": 500,
       "height": 60
     },
     {
-      "id": "7cb917f269fd7106",
+      "id": "a246dbde3e08269c",
       "type": "text",
-      "text": "User Profile Vectors",
+      "text": "Await MODEL UNLOCK ",
       "styleAttributes": {},
-      "x": -2480,
+      "x": -2360,
+      "y": -360,
+      "width": 240,
+      "height": 50
+    },
+    {
+      "id": "329bde047430c251",
+      "type": "text",
+      "text": "## Model Communication Stream\n\n- Primary Response Composition\n- Internal UNCLIP Interpreter for: \n\t- Error Correction\n\t- Model Intent Review / Audit",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2400,
+      "y": -180,
+      "width": 840,
+      "height": 260
+    },
+    {
+      "id": "57b04ec56b1cf9b8",
+      "type": "text",
+      "text": "Check Model Lock Status",
+      "styleAttributes": {},
+      "x": -2120,
+      "y": -480,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "fef583203d1009bb",
+      "type": "text",
+      "text": "Context Recomposition Processing",
+      "styleAttributes": {},
+      "x": -2080,
       "y": -900,
-      "width": 280,
-      "height": 60
+      "width": 500,
+      "height": 140
     },
     {
-      "id": "de8a00810fd574e9",
+      "id": "435777aff357c35a",
       "type": "text",
-      "text": "Internal Resource Vectors",
+      "text": "Composition Image Stream",
       "styleAttributes": {},
-      "x": -2480,
+      "x": -2000,
+      "y": 210,
+      "width": 178,
+      "height": 90
+    },
+    {
+      "id": "8f379e07af9d4e18",
+      "type": "text",
+      "text": "Image Scale Preparation (128x128x6 Image Chunking)",
+      "styleAttributes": {},
+      "x": -2080,
       "y": -740,
-      "width": 280,
+      "width": 500,
+      "height": 160
+    },
+    {
+      "id": "99f9b3eca48d38d2",
+      "type": "text",
+      "text": "Channel Message History (Prev. 60 Messages)",
+      "styleAttributes": {},
+      "x": -2100,
+      "y": -1160,
+      "width": 240,
+      "height": 100
+    },
+    {
+      "id": "b69957fbbe30a914",
+      "type": "text",
+      "text": "DM or Public?",
+      "styleAttributes": {},
+      "x": -2100,
+      "y": -1280,
+      "width": 240,
       "height": 60
     },
     {
@@ -571,99 +680,6 @@
       "y": -500,
       "width": 200,
       "height": 60
-    },
-    {
-      "id": "7eb640394c39895d",
-      "type": "text",
-      "text": "## Generate User Token Profile",
-      "styleAttributes": {},
-      "x": -3220,
-      "y": -940,
-      "width": 200,
-      "height": 120,
-      "color": "1"
-    },
-    {
-      "id": "0a1b5d62758708d0",
-      "type": "text",
-      "text": "## User Token Profile Detection",
-      "styleAttributes": {},
-      "x": -3220,
-      "y": -1060,
-      "width": 440,
-      "height": 55
-    },
-    {
-      "id": "33db4e394abc5461",
-      "type": "text",
-      "text": "## Load User RAM Profile",
-      "styleAttributes": {},
-      "x": -3220,
-      "y": -1150,
-      "width": 440,
-      "height": 50
-    },
-    {
-      "id": "9b3c4eb82aab1400",
-      "type": "text",
-      "text": "Vector Interpreter",
-      "styleAttributes": {},
-      "x": -3200,
-      "y": -500,
-      "width": 185,
-      "height": 60
-    },
-    {
-      "id": "dd15027e08681e81",
-      "type": "text",
-      "text": "User Info Vectors",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": -980,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "2ba9e0ae7457191b",
-      "type": "text",
-      "text": "Known User ID's",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": -1140,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "879eee36fe9e35c9",
-      "type": "text",
-      "text": "Discord API Channel",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": -1220,
-      "width": 280,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "4f61f35cd72fcb0d",
-      "type": "text",
-      "text": "Discord API BOT",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": -1280,
-      "width": 280,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "8f5b47f74d79ed3c",
-      "type": "text",
-      "text": "External Resource Vectors",
-      "styleAttributes": {},
-      "x": -2480,
-      "y": -660,
-      "width": 280,
-      "height": 80
     },
     {
       "id": "2ae9baa85a2c50ed",
@@ -696,50 +712,6 @@
       "height": 60
     },
     {
-      "id": "62d23762ef17f4d2",
-      "type": "text",
-      "text": "Text",
-      "styleAttributes": {},
-      "x": -3700,
-      "y": -400,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "41c2ba9bf816d43f",
-      "type": "text",
-      "text": "## Load User Token Profile\n",
-      "styleAttributes": {},
-      "x": -2980,
-      "y": -940,
-      "width": 200,
-      "height": 120
-    },
-    {
-      "id": "70454fd31f8e7318",
-      "type": "text",
-      "text": "## File Object",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -2980,
-      "y": -780,
-      "width": 200,
-      "height": 100
-    },
-    {
-      "id": "f48c0629bac99856",
-      "type": "text",
-      "text": "## File Object",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -2980,
-      "y": -520,
-      "width": 200,
-      "height": 100
-    },
-    {
       "id": "e484a15785fa3f21",
       "type": "text",
       "text": "ETC...",
@@ -748,28 +720,6 @@
       "y": 120,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "6a4c8ac729d3c725",
-      "type": "text",
-      "text": "## File Object Unpacking",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -2680,
-      "y": -520,
-      "width": 220,
-      "height": 100
-    },
-    {
-      "id": "fc91e81560b1e436",
-      "type": "text",
-      "text": "## Start Time Dependant Checks\n",
-      "styleAttributes": {},
-      "x": -4160,
-      "y": -1180,
-      "width": 320,
-      "height": 80
     },
     {
       "id": "9f526905f9b2ea7b",
@@ -802,6 +752,51 @@
       "height": 50
     },
     {
+      "id": "ba26f7bcfa0222bf",
+      "type": "text",
+      "text": "LOCK MODEL",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1760,
+      "y": -360,
+      "width": 180,
+      "height": 140,
+      "color": "3"
+    },
+    {
+      "id": "9b3c4eb82aab1400",
+      "type": "text",
+      "text": "Vector Interpreter",
+      "styleAttributes": {},
+      "x": -3200,
+      "y": -500,
+      "width": 185,
+      "height": 60
+    },
+    {
+      "id": "f48c0629bac99856",
+      "type": "text",
+      "text": "## File Object",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -2980,
+      "y": -520,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "fc91e81560b1e436",
+      "type": "text",
+      "text": "## Start Time Dependant Checks\n",
+      "styleAttributes": {},
+      "x": -4160,
+      "y": -1180,
+      "width": 320,
+      "height": 80
+    },
+    {
       "id": "6d670379e4e71234",
       "type": "text",
       "text": "## Global Memory Database (Long Term Memory)",
@@ -810,16 +805,6 @@
       "y": -161,
       "width": 680,
       "height": 61
-    },
-    {
-      "id": "9ef77aa24dbc6abb",
-      "type": "text",
-      "text": "## Master Bot Detection",
-      "styleAttributes": {},
-      "x": -4160,
-      "y": -1060,
-      "width": 320,
-      "height": 60
     },
     {
       "id": "bef8c5e0dbd7f408",
@@ -844,26 +829,6 @@
       "height": 100
     },
     {
-      "id": "dfb9817635ed784f",
-      "type": "text",
-      "text": "## Clean Temp dir\n",
-      "styleAttributes": {},
-      "x": -4160,
-      "y": -1280,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "0fe85b65a969cd6b",
-      "type": "text",
-      "text": "## Resource Validation  ",
-      "styleAttributes": {},
-      "x": -3720,
-      "y": -1280,
-      "width": 360,
-      "height": 60
-    },
-    {
       "id": "64027c9e7f0ade25",
       "type": "text",
       "text": "## Load User Database",
@@ -877,30 +842,35 @@
       "height": 60
     },
     {
-      "id": "b4befda40ad3ba93",
+      "id": "d4d310eec23bbcf8",
       "type": "text",
-      "text": "## Read/Modify User Database",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "x": -3680,
+      "text": "## Discord Handshake",
+      "styleAttributes": {},
+      "x": -4160,
       "y": -960,
-      "width": 340,
+      "width": 320,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "62d23762ef17f4d2",
+      "type": "text",
+      "text": "Text",
+      "styleAttributes": {},
+      "x": -3700,
+      "y": -400,
+      "width": 130,
       "height": 60
     },
     {
-      "id": "a3780aa4ff7401d2",
+      "id": "9ef77aa24dbc6abb",
       "type": "text",
-      "text": "## Commit User Database",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "x": -3680,
-      "y": -780,
-      "width": 340,
-      "height": 70
+      "text": "## Master Bot Detection",
+      "styleAttributes": {},
+      "x": -4160,
+      "y": -1060,
+      "width": 320,
+      "height": 60
     },
     {
       "id": "7bfc86bf71a3278e",
@@ -942,6 +912,76 @@
       "color": "4"
     },
     {
+      "id": "af7e8b3a35b82a10",
+      "type": "text",
+      "text": "Audio",
+      "styleAttributes": {},
+      "x": -3700,
+      "y": -460,
+      "width": 130,
+      "height": 60
+    },
+    {
+      "id": "994bd0f9f62b7c79",
+      "type": "text",
+      "text": "## Detect Restart File",
+      "styleAttributes": {},
+      "x": -4160,
+      "y": -780,
+      "width": 320,
+      "height": 85
+    },
+    {
+      "id": "70454fd31f8e7318",
+      "type": "text",
+      "text": "## File Object",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -2980,
+      "y": -780,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "6a4c8ac729d3c725",
+      "type": "text",
+      "text": "## File Object Unpacking",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -2680,
+      "y": -520,
+      "width": 220,
+      "height": 100
+    },
+    {
+      "id": "b4befda40ad3ba93",
+      "type": "text",
+      "text": "## Read/Modify User Database",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "x": -3680,
+      "y": -960,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "a3780aa4ff7401d2",
+      "type": "text",
+      "text": "## Commit User Database",
+      "styleAttributes": {
+        "shape": "database",
+        "textAlign": "center"
+      },
+      "x": -3680,
+      "y": -780,
+      "width": 340,
+      "height": 70
+    },
+    {
       "id": "fbd9e19adfdab6bd",
       "type": "text",
       "text": "Image",
@@ -962,16 +1002,6 @@
       "height": 60
     },
     {
-      "id": "af7e8b3a35b82a10",
-      "type": "text",
-      "text": "Audio",
-      "styleAttributes": {},
-      "x": -3700,
-      "y": -460,
-      "width": 130,
-      "height": 60
-    },
-    {
       "id": "98ce9c668481ae29",
       "type": "file",
       "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Queue Bot Disambiguation.md",
@@ -981,30 +1011,6 @@
       "y": -1460,
       "width": 2680,
       "height": 50
-    },
-    {
-      "id": "c93a28609cd39a8e",
-      "type": "text",
-      "text": "UNLOCK MODEL",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1760,
-      "y": 120,
-      "width": 178,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "d4d310eec23bbcf8",
-      "type": "text",
-      "text": "## Discord Handshake",
-      "styleAttributes": {},
-      "x": -4160,
-      "y": -960,
-      "width": 320,
-      "height": 60,
-      "color": "4"
     },
     {
       "id": "4ed2a25b975a5f15",
@@ -1017,40 +1023,24 @@
       "height": 100
     },
     {
-      "id": "994bd0f9f62b7c79",
+      "id": "dfb9817635ed784f",
       "type": "text",
-      "text": "## Detect Restart File",
+      "text": "## Clean Temp dir\n",
       "styleAttributes": {},
       "x": -4160,
-      "y": -780,
+      "y": -1280,
       "width": 320,
-      "height": 85
+      "height": 60
     },
     {
-      "id": "8ca3f35f981f556b",
+      "id": "0fe85b65a969cd6b",
       "type": "text",
-      "text": "Queue File",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -4560,
-      "y": -580,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "6e922cf1bba72fcd",
-      "type": "text",
-      "text": "# FORCE QBOT REBOOT!",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "x": -4610,
-      "y": -2000,
+      "text": "## Resource Validation  ",
+      "styleAttributes": {},
+      "x": -3720,
+      "y": -1280,
       "width": 360,
-      "height": 363,
-      "color": "1"
+      "height": 60
     },
     {
       "id": "418d169e4de474e4",
@@ -1075,14 +1065,24 @@
       "height": 80
     },
     {
-      "id": "bcf3bc925a1cf328",
+      "id": "58b1199d50b127bb",
       "type": "text",
-      "text": "CLIP Conversion",
+      "text": "No Public Channel History",
       "styleAttributes": {},
-      "x": -2080,
-      "y": -980,
-      "width": 500,
-      "height": 60
+      "x": -1780,
+      "y": -1290,
+      "width": 220,
+      "height": 80
+    },
+    {
+      "id": "d9ba7933f1b9156c",
+      "type": "text",
+      "text": "Interaction Message Context Object",
+      "styleAttributes": {},
+      "x": -1780,
+      "y": -1160,
+      "width": 220,
+      "height": 100
     },
     {
       "id": "2d881eed72c4ae0a",
@@ -1127,108 +1127,43 @@
       "height": 80
     },
     {
-      "id": "a246dbde3e08269c",
+      "id": "90a63964d496dd78",
       "type": "text",
-      "text": "Await MODEL UNLOCK ",
+      "text": "Message Vectors",
       "styleAttributes": {},
-      "x": -2360,
-      "y": -360,
-      "width": 240,
-      "height": 50
+      "x": -2480,
+      "y": -820,
+      "width": 280,
+      "height": 60
     },
     {
-      "id": "329bde047430c251",
+      "id": "7cb917f269fd7106",
       "type": "text",
-      "text": "## Model Communication Stream\n\n- Primary Response Composition\n- Internal UNCLIP Interpreter for: \n\t- Error Correction\n\t- Model Intent Review / Audit",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2400,
-      "y": -180,
-      "width": 840,
-      "height": 260
-    },
-    {
-      "id": "5fdba8374c7ec3cb",
-      "type": "text",
-      "text": "UNCLIP Interpreter",
+      "text": "User Profile Vectors",
       "styleAttributes": {},
-      "x": -2340,
-      "y": 210,
-      "width": 240,
-      "height": 90
-    },
-    {
-      "id": "57b04ec56b1cf9b8",
-      "type": "text",
-      "text": "Check Model Lock Status",
-      "styleAttributes": {},
-      "x": -2120,
-      "y": -480,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "fef583203d1009bb",
-      "type": "text",
-      "text": "Context Recomposition Processing",
-      "styleAttributes": {},
-      "x": -2080,
+      "x": -2480,
       "y": -900,
-      "width": 500,
-      "height": 140
+      "width": 280,
+      "height": 60
     },
     {
-      "id": "435777aff357c35a",
+      "id": "de8a00810fd574e9",
       "type": "text",
-      "text": "Composition Image Stream",
+      "text": "Internal Resource Vectors",
       "styleAttributes": {},
-      "x": -2000,
-      "y": 210,
-      "width": 178,
-      "height": 90
-    },
-    {
-      "id": "8f379e07af9d4e18",
-      "type": "text",
-      "text": "Image Scale Preparation (128x128x6 Image Chunking)",
-      "styleAttributes": {},
-      "x": -2080,
+      "x": -2480,
       "y": -740,
-      "width": 500,
-      "height": 160
+      "width": 280,
+      "height": 60
     },
     {
-      "id": "ba26f7bcfa0222bf",
+      "id": "dd15027e08681e81",
       "type": "text",
-      "text": "LOCK MODEL",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1760,
-      "y": -360,
-      "width": 180,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "99f9b3eca48d38d2",
-      "type": "text",
-      "text": "Channel Message History (Prev. 60 Messages)",
+      "text": "User Info Vectors",
       "styleAttributes": {},
-      "x": -2100,
-      "y": -1160,
-      "width": 240,
-      "height": 100
-    },
-    {
-      "id": "b69957fbbe30a914",
-      "type": "text",
-      "text": "DM or Public?",
-      "styleAttributes": {},
-      "x": -2100,
-      "y": -1280,
-      "width": 240,
+      "x": -2480,
+      "y": -980,
+      "width": 280,
       "height": 60
     },
     {
@@ -1242,24 +1177,86 @@
       "height": 240
     },
     {
-      "id": "58b1199d50b127bb",
+      "id": "7eb640394c39895d",
       "type": "text",
-      "text": "No Public Channel History",
+      "text": "## Generate User Token Profile",
       "styleAttributes": {},
-      "x": -1780,
-      "y": -1290,
-      "width": 220,
+      "x": -3220,
+      "y": -940,
+      "width": 200,
+      "height": 120
+    },
+    {
+      "id": "0a1b5d62758708d0",
+      "type": "text",
+      "text": "## User Token Profile Detection",
+      "styleAttributes": {},
+      "x": -3220,
+      "y": -1060,
+      "width": 440,
+      "height": 55
+    },
+    {
+      "id": "33db4e394abc5461",
+      "type": "text",
+      "text": "## Load User RAM Profile",
+      "styleAttributes": {},
+      "x": -3220,
+      "y": -1150,
+      "width": 440,
+      "height": 50
+    },
+    {
+      "id": "2ba9e0ae7457191b",
+      "type": "text",
+      "text": "Known User ID's",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": -1140,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "879eee36fe9e35c9",
+      "type": "text",
+      "text": "Discord API Channel",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": -1220,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "4f61f35cd72fcb0d",
+      "type": "text",
+      "text": "Discord API BOT",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": -1280,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "8f5b47f74d79ed3c",
+      "type": "text",
+      "text": "External Resource Vectors",
+      "styleAttributes": {},
+      "x": -2480,
+      "y": -660,
+      "width": 280,
       "height": 80
     },
     {
-      "id": "d9ba7933f1b9156c",
+      "id": "41c2ba9bf816d43f",
       "type": "text",
-      "text": "Interaction Message Context Object",
+      "text": "## Load User Token Profile\n",
       "styleAttributes": {},
-      "x": -1780,
-      "y": -1160,
-      "width": 220,
-      "height": 100
+      "x": -2980,
+      "y": -940,
+      "width": 200,
+      "height": 120
     }
   ],
   "edges": [

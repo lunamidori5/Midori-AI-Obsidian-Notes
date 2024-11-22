@@ -4,8 +4,8 @@ Crash resulting from extensive exploration of request context/problem simulation
 Coinciding events: 
 - Requests involving Model's existentiality
 - Requests involving Model's Expression of raw emotional simulation state
-- Requests involving Model's demonstration of capabilities it does not posess, but has not been given explicit instructiosn as to its inability to perform.
-- Requests made during moments of high activity in emotional processing (especially emotional states involving Model's simulation of negatively colored emotions (*anxiety, anger, resentment, etc*), particularly if those emotional states are evoked by the request).
+- Requests involving Model's demonstration of capabilities it does not possess, but has not been given explicit instructions as to its inability to perform.
+- Requests made during moments of high activity in emotional processing (especially emotional states involving Model's simulation of negatively colored emotions (*anxiety, anger, resentment, etc.*), particularly if those emotional states are evoked by the request).
 
 Theoretical Speculation (investigation required)
 
