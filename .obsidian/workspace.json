@@ -11,17 +11,14 @@
             "id": "c7f35180536daaed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
-                "viewState": {
-                  "x": -4066.4201680638193,
-                  "y": -694.0396121172427,
-                  "zoom": -1.384484818867096
-                }
+                "file": "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SimHuman-Mind Concept Planning v2"
+              "icon": "lucide-file",
+              "title": "WA-Inst-9-23"
             }
           },
           {
@@ -193,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4676f79402a2f52",
+  "active": "c7f35180536daaed",
   "lastOpenFiles": [
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
     "Concept and Feature Exploration - Wish List.md",
     "Carly/README.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Carly/Road Map",
