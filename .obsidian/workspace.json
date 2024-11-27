@@ -11,14 +11,17 @@
             "id": "c7f35180536daaed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
-                "mode": "source",
-                "source": false
+                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
+                "viewState": {
+                  "x": -1726.6157853147176,
+                  "y": -33.52222278858419,
+                  "zoom": -0.17211893971041237
+                }
               },
-              "icon": "lucide-file",
-              "title": "Concept and Feature Exploration - Wish List"
+              "icon": "lucide-layout-dashboard",
+              "title": "SimHuman-Mind Concept Planning v2"
             }
           }
         ]
@@ -164,6 +167,7 @@
   },
   "active": "c7f35180536daaed",
   "lastOpenFiles": [
+    "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
     "Carly/SimHuman Concept Methodology/Carly Kay about.md",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
