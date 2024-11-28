@@ -2,5 +2,15 @@
   "showViewHeader": true,
   "baseFontSize": 16,
   "baseFontSizeAction": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "callouts_multi_column",
+    "callouts_outlined",
+    "checkbox_progress_bars",
+    "outline_full_header_titles",
+    "ribbon_styling_hide_on_collapse",
+    "tables_centered_reading_view",
+    "tables_rounded_corners",
+    "transclusions_headerless"
+  ]
 }

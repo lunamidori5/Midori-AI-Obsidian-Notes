@@ -1,0 +1,56 @@
+{
+  "editorPosition": "right",
+  "attachShortcutToGlobalWindow": false,
+  "globalNamespace": "MF",
+  "formDefinitions": [
+    {
+      "title": "New Task",
+      "name": "New Task",
+      "fields": [
+        {
+          "name": "project",
+          "label": "Project",
+          "description": "Which Project?",
+          "isRequired": false,
+          "input": {
+            "type": "select",
+            "source": "fixed",
+            "options": [
+              {
+                "value": "#midori",
+                "label": "Midori AI"
+              },
+              {
+                "value": "#shp",
+                "label": "Simulated Human Project"
+              }
+            ]
+          }
+        },
+        {
+          "name": "category",
+          "label": "Category",
+          "description": "Select and Existing Category",
+          "isRequired": true,
+          "input": {
+            "type": "tag",
+            "options": [],
+            "source": "notes",
+            "folder": ""
+          }
+        },
+        {
+          "name": "description",
+          "label": "Task Description",
+          "description": "What is the task?",
+          "isRequired": false,
+          "input": {
+            "type": "textarea",
+            "hidden": false
+          }
+        }
+      ],
+      "version": "1"
+    }
+  ]
+}

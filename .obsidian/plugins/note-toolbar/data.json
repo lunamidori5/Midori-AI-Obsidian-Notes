@@ -1,0 +1,89 @@
+{
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "Development/Roadmap",
+      "toolbar": "1faabc74-fca4-42bd-93e7-c7d37dac139f"
+    }
+  ],
+  "icon": "lucide-align-justify",
+  "ribbonAction": "toolbar",
+  "showEditInFabMenu": false,
+  "toolbarProp": "toolbar",
+  "toolbars": [
+    {
+      "uuid": "1faabc74-fca4-42bd-93e7-c7d37dac139f",
+      "defaultStyles": [
+        "border",
+        "even"
+      ],
+      "items": [
+        {
+          "uuid": "c9a6d258-f482-4610-a66c-b84d305e5b3d",
+          "label": "Add Task",
+          "icon": "",
+          "link": "obsidian://adv-uri?vault=Midori-AI-Obsidian-Notes&commandid=quickadd%3Achoice%3A581a9b59-f6f1-4137-af0f-1f89dc6a642d",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "uri"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Task List Management",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2024-11-28T20:09:27.041Z"
+    }
+  ],
+  "version": 20240727.1,
+  "whatsnew_version": 1.14
+}
