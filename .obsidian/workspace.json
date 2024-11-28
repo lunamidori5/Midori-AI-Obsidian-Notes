@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4fed220e9cfd0d01",
+        "id": "ad887614c2f5717f",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f35180536daaed",
+            "id": "11787686b9563615",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
-                "viewState": {
-                  "x": -1726.6157853147176,
-                  "y": -33.52222278858419,
-                  "zoom": -0.17211893971041237
-                }
+                "file": "Overview/Homepage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SimHuman-Mind Concept Planning v2"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -96,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
-                "collapseAll": false,
+                "file": "Overview/Homepage.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SimHuman-Mind Concept Planning"
+              "title": "Backlinks for Homepage"
             }
           },
           {
@@ -142,18 +139,83 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas"
+                "file": "Overview/Homepage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SimHuman-Mind Concept Planning"
+              "title": "Outline of Homepage"
+            }
+          },
+          {
+            "id": "af4d9d9be596ddc3",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-template-builder-view",
+              "state": {
+                "title": "New Task",
+                "name": "New Task",
+                "fields": [
+                  {
+                    "name": "project",
+                    "label": "Project",
+                    "description": "Which Project?",
+                    "isRequired": false,
+                    "input": {
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "#midori",
+                          "label": "Midori AI"
+                        },
+                        {
+                          "value": "#shp",
+                          "label": "Simulated Human Project"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "category",
+                    "label": "Category",
+                    "description": "Select and Existing Category",
+                    "isRequired": true,
+                    "input": {
+                      "type": "tag"
+                    }
+                  },
+                  {
+                    "name": "description",
+                    "label": "Task Description",
+                    "description": "What is the task?",
+                    "isRequired": false,
+                    "input": {
+                      "type": "textarea",
+                      "hidden": false
+                    }
+                  }
+                ],
+                "version": "1"
+              },
+              "icon": "lucide-file",
+              "title": "Template Builder"
+            }
+          },
+          {
+            "id": "d4b5f66264a1ee05",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,51 +224,54 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "modalforms:Edit forms": false
     }
   },
-  "active": "c7f35180536daaed",
+  "active": "11787686b9563615",
   "lastOpenFiles": [
+    "Development/Roadmap/Task List.md",
+    "Overview/Homepage.md",
+    "Features/Feature Requests/Placeholder.md",
+    "Development/Roadmap/Untitled.md",
+    "Utility/Assets/main-obsidian-banner.png",
+    "Utility/Assets",
+    "Carly/About Carly/Carly Kay about.md",
+    "Carly/Carly-API/Preweighted Message Components.md",
+    "Carly/About Carly",
+    "Carly/Carly-API/Interactions API.md",
+    "Carly/Carly-API/Model Info.md",
+    "Carly/Resources/carly-profile/carlyandlunatea.png",
+    "Carly/Resources/carly-profile/carlyprofilephoto.png",
     "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
-    "Carly/SimHuman Concept Methodology/Carly Kay about.md",
-    "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
+    "Midori AI/Development/Roadmap/Task List.md",
+    "Midori AI/Development/Roadmap",
+    "Midori AI/Development",
+    "Development/Roadmap/Untitled",
+    "README.md",
+    "Overview",
+    "Midori AI",
+    "Utility/Formatting Reference.md",
+    "Utility",
+    "Development/Roadmap",
+    "Development",
+    "Carly/Resources/export-0001.png",
+    "Carly/Carly Versions/Carly LLM.md",
+    "Carly/Carly Versions/Carly Model v.4.md",
+    "Carly/Carly Versions/Carly Model v.5.md",
+    "Carly/Carly Versions/Carly v.5a.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
+    "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Concept and Feature Exploration - Wish List.md",
     "Carly/README.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
-    "Carly/Road Map",
     "Carly/Feature Requests/Placeholder.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",
-    "Carly/Carly Versions/Carly v.5a.md",
-    "Carly/Carly-API/Interactions API.md",
-    "Carly/Carly-API/Model Info.md",
-    "Carly/Carly-API/Preweighted Message Components.md",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/SimHuman Concept Methodology/System info/Untitled.md",
-    "Carly/SimHuman Concept Methodology/System info",
-    "Carly/Speech_files",
-    "Carly/Resources/carly-profile/carlyandlunatea.png",
-    "Carly/Resources/carly-profile/carlyprofilephoto.png",
-    "Carly/Resources/carly-profile",
-    "Carly/Resources/export-0001.png",
     "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/Master Bot Overview.md",
     "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/User Profile Data.md",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Component Chunking.md",
-    "Carly/Resources",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram",
-    "Carly/SimHuman Concept Flow Diagrams/Logging.md",
-    "Carly/SimHuman Concept Flow Diagrams/Message Sterilization.md",
-    "Carly/SimHuman Concept Flow Diagrams/User Candidacy.md",
-    "Carly/SimHuman Concept Flow Diagrams/Response Candidacy.md",
-    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Queue Bot Disambiguation.md",
-    "Carly/SimHuman Concept Methodology",
-    "Carly",
-    "Carly/Carly Versions/Carly LLM.md",
-    "Carly/Carly Versions/Carly Model v.4.md",
-    "Carly/Carly Versions/Carly Model v.5.md"
+    "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md"
   ]
 }

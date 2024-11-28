@@ -1,0 +1,30 @@
+/* disable title */
+.markdown-embed-title {
+  display: none;
+}
+
+/* Disable the first header in the embed (which is the third div), but only if this
+isn't an embed of a complete node (which can be detected through checking whether the
+title is empty). */
+.markdown-embed-title:empty~.markdown-embed-content .markdown-preview-view .markdown-preview-sizer div:nth-child(3) :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+
+/* show the source in small, grey font at the top 
+.markdown-embed::before {
+  content: attr(alt);
+  display: block;
+  font-size: var(--font-smallest);
+  color: var(--text-muted);
+}*/
+
+/* change the link background so it's occludes the text when it overlays the source */
+.markdown-embed-link {
+  background: var(--color-base-00);
+  opacity: 1;
+}
+
+.markdown-embed-link:hover {
+  background: var(--color-base-25);
+  opacity: 1;
+}

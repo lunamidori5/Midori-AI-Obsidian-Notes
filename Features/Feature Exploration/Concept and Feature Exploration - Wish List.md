@@ -66,6 +66,6 @@
 
 ### Midori-AI
 
-- New Website platform and design
+- [ ] New Website platform and design
 	- Current Hugo *Theme* is bad and ugly
 	- Get off Hugo or find an elegant way to change the *theme*
