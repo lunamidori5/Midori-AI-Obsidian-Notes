@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "e9b7943f7a568f11",
+      "type": "text",
+      "text": "Vision Model",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bddcb59363113c67",
+      "type": "text",
+      "text": "Auditory Model",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -80,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3104148c9b1bfdda",
+      "type": "text",
+      "text": "Logic Model",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 0,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02c4e80c6c8f939e",
+      "type": "text",
+      "text": "Interiority Model",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 80,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3380f68b7fb8dec6",
+      "type": "text",
+      "text": "Emotional model",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 160,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7c987e35f875bc5d",
+      "type": "text",
+      "text": "Language model\n",
+      "styleAttributes": {},
+      "x": -420,
+      "y": -240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a396d65499f205d4",
+      "type": "text",
+      "text": "Semantic Synthesis",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -50,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "dd81eff045af5bee",
+      "type": "text",
+      "text": "Composition Model\n\n- \n- Rendering Into Output Preferences\n\t- Audio\n\t\t- Live Conversation\n\t\t- \n\t- Text\n\t\t- Formatting Preferences\n\t- Video?",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -180,
+      "width": 340,
+      "height": 400
+    },
+    {
+      "id": "1d88fe61639bd325",
+      "type": "text",
+      "text": "Harness",
+      "styleAttributes": {},
+      "x": 940,
+      "y": -50,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "9d8d23b0d8723fe7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "16f61358c8cdd361",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "e9b7943f7a568f11",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "59091608ab7198e9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "bddcb59363113c67",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "f62ca1a461ac7028",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3104148c9b1bfdda",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "a58d3cf53e1de4f1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "02c4e80c6c8f939e",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "c4fbf8575b1a9c8f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3380f68b7fb8dec6",
+      "fromSide": "right",
+      "toNode": "a396d65499f205d4",
+      "toSide": "left"
+    },
+    {
+      "id": "be72c987e412231f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "left",
+      "toNode": "e9b7943f7a568f11",
+      "toSide": "left"
+    },
+    {
+      "id": "80efbc781eff11e1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "left",
+      "toNode": "bddcb59363113c67",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "e9865f2113e593b3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "bddcb59363113c67",
+      "fromSide": "left",
+      "toNode": "3104148c9b1bfdda",
+      "toSide": "left"
+    },
+    {
+      "id": "db060a1d8679c10e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3104148c9b1bfdda",
+      "fromSide": "left",
+      "toNode": "02c4e80c6c8f939e",
+      "toSide": "left"
+    },
+    {
+      "id": "7d6071157dd1e599",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "02c4e80c6c8f939e",
+      "fromSide": "left",
+      "toNode": "3380f68b7fb8dec6",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

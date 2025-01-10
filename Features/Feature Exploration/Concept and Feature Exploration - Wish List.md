@@ -33,6 +33,22 @@
 	- heat map
 	- radar graph
 
+- Begin deconstruction and modularization of model's into specified sub-models
+	- Language Model
+	- Image Model
+	- Spatial Model
+	- Chronology Model
+	- Emotional Model
+	- Logical Model
+	- Priority Model 
+	- Value/Ethical Model
+	- Memory Models
+		- Active Volatile Memory
+		- Committed Stable Memory
+			- #NOTE A function to degrade relevance and weight within the memory's influence metric as a function of time and recall periodicity.
+		- Permanent Memory 
+
+
 - Context resolution / combination
 	- rendering down repeated and heavily referenced / high priority information to a "priority context"
 	- 
@@ -66,6 +82,6 @@
 
 ### Midori-AI
 
-- [ ] New Website platform and design
+- [x] New Website platform and design
 	- Current Hugo *Theme* is bad and ugly
 	- Get off Hugo or find an elegant way to change the *theme*
