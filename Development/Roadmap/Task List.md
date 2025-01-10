@@ -32,7 +32,6 @@
 	- [ ] #task #midoriai #development Update Midori AI file manager with TUI for folder selection
 	- [ ] #task #midoriai #development Update Helper App to handle errors with File Manager
 	- [ ] #task #midoriai #development #bugfix Fix issues with Git Uploader and helper app slowing down with increase in file size
-	- [ ] #task #midoriai #development 
 - [ ] #task #midoriai #development Get pkgbuild uploaded to AUR for easier installing and building
 - [ ] 
 
@@ -53,12 +52,12 @@
 >Michaels Responsibility
 ### Development
 - [ ] #task #obsidian #development Introduce NoteToolbar Plugin
-- [ ] #task #obsidian #development  Introduce File default read mode plugin
+- [ ] #task #obsidian #development Introduce File default read mode plugin
 - [ ] #task #obsidian #development Introduce theme with *task status indicators*
+- [ ] #task #obsidian #development Introduce Homepage Plugin
 - [ ] #task #obsidian #development Introduce Task Creation/Organization automation
 	- [ ] #task #obsidian #development Introduce Page creation on new tag creation (First Tag > Second Tag > Etc...)
-- [ ] #task #obsidian #development Reorganize Parent Task List into 
-	- [ ] #task #obsidian #development Create SHP Parent Task List File
-	- [ ] #task #obsidian #development Create Midori AI Parent Task List File
-	- [ ] #task #obsidian #development Create Obsidian Parent Task List File
-
+	- [ ] #task #obsidian #development Reorganize Parent Task List into 
+		- [ ] #task #obsidian #development Create SHP Parent Task List File
+		- [ ] #task #obsidian #development Create Midori AI Parent Task List File
+		- [ ] #task #obsidian #development Create Obsidian Parent Task List File
