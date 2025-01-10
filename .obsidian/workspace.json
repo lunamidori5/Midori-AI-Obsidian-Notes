@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23a8bf26875c4db4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Overview/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -229,13 +229,13 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "23a8bf26875c4db4",
+  "active": "c4676f79402a2f52",
   "lastOpenFiles": [
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled 1.md",
-    "Development/Roadmap/Task List.md",
     "Overview/Homepage.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.canvas",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.md",
+    "Development/Roadmap/Task List.md",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
     "Features/Feature Requests/Placeholder.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
