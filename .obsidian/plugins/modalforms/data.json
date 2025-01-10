@@ -33,10 +33,7 @@
           "description": "Select and Existing Category",
           "isRequired": true,
           "input": {
-            "type": "tag",
-            "options": [],
-            "source": "notes",
-            "folder": ""
+            "type": "tag"
           }
         },
         {
