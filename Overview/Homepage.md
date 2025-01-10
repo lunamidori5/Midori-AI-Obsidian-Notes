@@ -2,7 +2,7 @@
 toolbar: Task List Management
 banner: "![[https://tea-cup.midori-ai.xyz/download/main-obsidian-banner.png]]"
 banner_x: 0
-banner_y: 0.628
+banner_y: 0.7
 ---
 
 ## Current Tasks
