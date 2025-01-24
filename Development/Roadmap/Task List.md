@@ -42,7 +42,7 @@
 
 ### Server Management
 - [x] #task #midoriai #server build new server rack ✅ 2025-01-10
-- [ ] #task #midoriai #server Migrate hardware to new server rack
+- [x] #task #midoriai #server Migrate hardware to new server rack ✅ 2025-01-24
 - [ ] #task #midoriai #server Convert Super Computer into primary AI *Runner*
 - [ ] 
 ### Website
