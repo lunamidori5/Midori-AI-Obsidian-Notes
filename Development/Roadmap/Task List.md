@@ -31,7 +31,7 @@
 - [ ] #task #midoriai #development Fix Midori AI file manager
 	- [ ] #task #midoriai #development Update Midori AI file manager with TUI for folder selection
 	- [ ] #task #midoriai #development Update Helper App to handle errors with File Manager
-	- [ ] #task #midoriai #development #bugfix Fix issues with Git Uploader and helper app slowing down with increase in file size
+	- [x] #task #midoriai #development #bugfix Fix issues with Git Uploader and helper app slowing down with increase in file size ✅ 2025-01-24
 	- [ ] #task #midoriai #development 
 - [ ] #task #midoriai #development Get pkgbuild uploaded to AUR for easier installing and building
 - [ ] 
