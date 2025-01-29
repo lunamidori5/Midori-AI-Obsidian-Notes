@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 63.76353790613718,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -23,41 +22,20 @@
             }
           },
           {
-            "id": "0c46096f3660b74a",
+            "id": "b676bb7e7a0e123e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
+                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
                 "viewState": {
-                  "x": -915.7961901343936,
-                  "y": -0.08569975881995617,
-                  "zoom": -0.17211893971041237
+                  "x": 483,
+                  "y": 41,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "SimHuman-Mind Concept Planning v2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d14e494338290eb",
-        "type": "tabs",
-        "dimension": 36.23646209386281,
-        "children": [
-          {
-            "id": "652895588a37e29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WA-Inst-9-23"
+              "title": "v7 Sketching"
             }
           }
         ]
@@ -271,18 +249,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
+    "Overview/Homepage.md",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",
-    "Overview/Homepage.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled 1.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.md",
     "Development/Roadmap/Task List.md",
     "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
     "Features/Feature Requests/Placeholder.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
     "Development/Roadmap/Untitled.md",
     "Utility/Assets/main-obsidian-banner.png",
     "Utility/Assets",
