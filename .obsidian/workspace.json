@@ -20,6 +20,23 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "b676bb7e7a0e123e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
+                "viewState": {
+                  "x": 483,
+                  "y": 41,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "v7 Sketching"
+            }
           }
         ]
       }
@@ -215,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,15 +249,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
     "Overview/Homepage.md",
+    "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
+    "Carly/Speech_files/Formalized Presentation Draft.md",
+    "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled 1.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.md",
     "Development/Roadmap/Task List.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
     "Features/Feature Requests/Placeholder.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
     "Development/Roadmap/Untitled.md",
     "Utility/Assets/main-obsidian-banner.png",
     "Utility/Assets",
@@ -266,12 +287,9 @@
     "Carly/Carly Versions/Carly Model v.4.md",
     "Carly/Carly Versions/Carly Model v.5.md",
     "Carly/Carly Versions/Carly v.5a.md",
-    "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Concept and Feature Exploration - Wish List.md",
     "Carly/README.md",
     "Carly/Feature Requests/Placeholder.md",
-    "Carly/Speech_files/Formalized Presentation Draft.md",
-    "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/SimHuman Concept Methodology/System info/Untitled.md"
   ]
 }

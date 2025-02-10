@@ -1,5 +1,4 @@
 [
-  "advanced-canvas",
   "obsidian-tasks-plugin",
   "obsidian-admonition",
   "homepage",
@@ -8,5 +7,6 @@
   "modalforms",
   "obsidian-banners",
   "quickadd",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "advanced-canvas"
 ]
