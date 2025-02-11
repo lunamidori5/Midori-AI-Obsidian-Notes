@@ -12,5 +12,6 @@
     "tables_centered_reading_view",
     "tables_rounded_corners",
     "transclusions_headerless"
-  ]
+  ],
+  "showRibbon": true
 }
