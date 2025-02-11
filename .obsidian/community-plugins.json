@@ -8,5 +8,7 @@
   "obsidian-banners",
   "quickadd",
   "obsidian-advanced-uri",
-  "advanced-canvas"
+  "advanced-canvas",
+  "obsidian-linter",
+  "obsidian-tagfolder"
 ]

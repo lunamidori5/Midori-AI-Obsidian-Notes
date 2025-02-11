@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cb6337c2617d29be",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,28 +18,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Homepage"
             }
           },
           {
-            "id": "b676bb7e7a0e123e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
-                "viewState": {
-                  "x": 483,
-                  "y": 41,
-                  "zoom": 0
-                }
+                "file": "Development/Roadmap/Task List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "v7 Sketching"
+              "icon": "lucide-file",
+              "title": "Task List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Development",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,11 +91,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "dbab0866c6144d15",
@@ -247,18 +249,18 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0bc501e714b33cdb",
   "lastOpenFiles": [
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
+    "Overview/Homepage.md",
+    "Development/Roadmap/Task List.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
-    "Overview/Homepage.md",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled 1.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/Untitled.md",
-    "Development/Roadmap/Task List.md",
     "Features/Feature Exploration/Concept and Feature Exploration - Wish List.md",
     "Features/Feature Requests/Placeholder.md",
     "Development/Roadmap/Untitled.md",
