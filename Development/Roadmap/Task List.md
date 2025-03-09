@@ -13,7 +13,7 @@
 - [ ] #task #shp #documentation Eventually introduce UV into library provisioning pipeline
 
 ### Bug Fixes
-- [ ] #task #shp #bugfix ~~fix bugs to do with photo making~~
+- [x] #task #shp #bugfix ~~fix bugs to do with photo making~~ ✅ 2025-03-09
 - [ ] #task #shp #bugfix fix bugs to do with mood intake and outtake
 - [x] #task #shp #bugfix investigate cause of internal working awareness model corruption ✅ 2025-01-10
 - [ ] 
@@ -58,7 +58,7 @@
 	- [ ] #task #midoriai #clusterdevelopment #Sandbox Design Sandbox
 	- [ ] #task #midoriai #clusterdevelopment #Sandbox Make the Sandbox honor user settings
 	- [ ] #task #midoriai #clusterdevelopment #Sandbox Make Sandbox thread-safe
-	- [ ] #task #midoriai #clusterdevelopment #Sandbox Add checks for hardware stability confirmation
+	- [x] #task #midoriai #clusterdevelopment #Sandbox Add checks for hardware stability confirmation ✅ 2025-03-09
 	- [ ] #task #midoriai #clusterdevelopment #Sandbox Confirm and validate emergency logging sent back to Midori AI for auditability and due diligence
 - [ ] #task #midoriai #clusterdevelopment Server side data collection
 	- [ ] #task #midoriai #clusterdevelopment Add logic to confirm node health
