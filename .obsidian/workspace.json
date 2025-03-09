@@ -20,23 +20,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "a58228ebb4cf0063",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
-                "viewState": {
-                  "x": 327,
-                  "y": 15.600000000000023,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "v7 Sketching"
-            }
           }
         ]
       }
@@ -250,8 +233,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Overview/Homepage.md",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning v2.canvas",
     "Development/Roadmap/Task List.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind Concept Planning.canvas",
