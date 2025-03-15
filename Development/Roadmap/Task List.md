@@ -13,8 +13,8 @@
 - [ ] #task #shp #documentation Eventually introduce UV into library provisioning pipeline
 
 ### Bug Fixes
-- [x] #task #shp #bugfix ~~fix bugs to do with photo making~~ ✅ 2025-03-09
-- [ ] #task #shp #bugfix fix bugs to do with mood intake and outtake
+- [ ] #task #shp #bugfix ~~fix bugs to do with photo making~~
+- [x] #task #shp #bugfix fix bugs to do with mood intake and outtake ✅ 2025-03-14
 - [x] #task #shp #bugfix investigate cause of internal working awareness model corruption ✅ 2025-01-10
 - [ ] 
 
@@ -29,17 +29,17 @@
 - [ ] #task #midoriai #development Create network topology map
 - [ ] #task #midoriai #development Fix Midori AI file manager
 	- [ ] #task #midoriai #development Update Midori AI file manager with TUI for folder selection
-	- [ ] #task #midoriai #development Update Helper App to handle errors with File Manager
+	- [x] #task #midoriai #development Update Helper App to handle errors with File Manager ✅ 2025-03-14
 	- [x] #task #midoriai #development #bugfix Fix issues with Git Uploader and helper app slowing down with increase in file size ✅ 2025-01-24
 	- [ ] #task #midoriai #development 
 - [ ] #task #midoriai #development Get pkgbuild uploaded to AUR for easier installing and building
 - [ ] #task #midoriai #development  #blueprints  Partnerships
 	- [ ] #task #midoriai #development #blueprints Fix LRM notetaker for presentability
 	- [ ] #task #midoriai #development #blueprints Update all blueprint Readme's with proper formatting
-	- [ ] #task #midoriai #development #blueprints Update subsystem to support more modular installation of systems (Possible SH?)
-	- [ ] #task #midoriai #development #blueprints #bugfix Fix bugs related to subsystem building
+	- [x] #task #midoriai #development #blueprints Update subsystem to support more modular installation of systems (Possible SH?) ✅ 2025-03-14
+	- [x] #task #midoriai #development #blueprints #bugfix Fix bugs related to subsystem building ✅ 2025-03-14
 - [ ] #task #midoriai #development  #SubsystemManager Subsystem Manager
-	- [ ] #task #midoriai #development  #SubsystemManager Implement Ollama
+	- [x] #task #midoriai #development  #SubsystemManager Implement Ollama ✅ 2025-03-14
 	- [ ] #task #midoriai #development  #SubsystemManager Implement Axolotle
 	- [ ] #task #midoriai #development  #SubsystemManager Implement AutoGPT
 	- [ ] #task #midoriai #development  #SubsystemManager Implement MemGPT
@@ -61,13 +61,13 @@
 	- [x] #task #midoriai #clusterdevelopment #Sandbox Add checks for hardware stability confirmation ✅ 2025-03-09
 	- [ ] #task #midoriai #clusterdevelopment #Sandbox Confirm and validate emergency logging sent back to Midori AI for auditability and due diligence
 - [ ] #task #midoriai #clusterdevelopment Server side data collection
-	- [ ] #task #midoriai #clusterdevelopment Add logic to confirm node health
+	- [x] #task #midoriai #clusterdevelopment Add logic to confirm node health ✅ 2025-03-14
 	- [ ] #task #midoriai #clusterdevelopment Add logic to track node health over time
 	- [ ] #task #midoriai #clusterdevelopment Make Notification for informing user of "unhealthy node"
 	- [ ] #task #midoriai #clusterdevelopment Fix full page refresh on image rotation schedule update, only update photo area with newly provided image
 	- [ ] #task #midoriai #clusterdevelopment Cluster file resource sharing
-	- [ ] #task #midoriai #clusterdevelopment Rebuild cluster node authentication
-		- [ ] #task #midoriai #clusterdevelopment Invite key 5 minute generation
+	- [x] #task #midoriai #clusterdevelopment Rebuild cluster node authentication ✅ 2025-03-14
+		- [x] #task #midoriai #clusterdevelopment Invite key 5 minute generation ✅ 2025-03-14
 
 ### Bugfix
 - [x] #task #midoriai #bugfix Resolve issue with subsystem v2 with required click to update path to further installation ✅ 2025-01-10
