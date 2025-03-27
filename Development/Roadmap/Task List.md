@@ -78,7 +78,7 @@
 ### Server Management
 - [x] #task #midoriai #server build new server rack ✅ 2025-01-10
 - [x] #task #midoriai #server Migrate hardware to new server rack ✅ 2025-01-24
-- [ ] #task #midoriai #server Convert Super Computer into *Server*
+- [x] #task #midoriai #server Convert Super Computer into *Server* ✅ 2025-03-27
 - [ ] #task #midoriai #server revisit logging methodology
 
 ### Website
