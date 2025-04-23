@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
-                "viewState": {
-                  "x": -3450,
-                  "y": -560,
-                  "zoom": -1.6585115647004818
-                }
+                "file": "Overview/Homepage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SimHuman-Mind V6"
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -236,8 +233,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Overview/Homepage.md",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",

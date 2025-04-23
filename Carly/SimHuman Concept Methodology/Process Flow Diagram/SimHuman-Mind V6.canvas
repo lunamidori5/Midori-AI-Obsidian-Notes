@@ -31,6 +31,27 @@
       "label": "Message Preprocessing"
     },
     {
+      "id": "91018dfb4ee0d724",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2440,
+      "y": -1360,
+      "width": 920,
+      "height": 1760,
+      "label": "Response Processing"
+    },
+    {
+      "id": "efbd622ac72ad3d2",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1440,
+      "y": -540,
+      "width": 1200,
+      "height": 980,
+      "color": "#8773e7",
+      "label": "Carly Model v.6"
+    },
+    {
       "id": "0b744ca21c6d3404",
       "type": "group",
       "styleAttributes": {},
@@ -49,6 +70,28 @@
       "width": 1360,
       "height": 340,
       "label": "Command Management"
+    },
+    {
+      "id": "baffe5535728d952",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -480,
+      "width": 520,
+      "height": 880,
+      "color": "#8cabd9",
+      "label": "Preprocessing"
+    },
+    {
+      "id": "85eaea641f9805fb",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -800,
+      "y": -480,
+      "width": 520,
+      "height": 880,
+      "color": "#732662",
+      "label": "Working Awareness"
     },
     {
       "id": "b76acaf27445b9e1",
@@ -111,6 +154,17 @@
       "label": "Profile Communication"
     },
     {
+      "id": "0420bc80be315d6d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2100,
+      "y": -1000,
+      "width": 540,
+      "height": 440,
+      "color": "1",
+      "label": "Image Vector manipulation"
+    },
+    {
       "id": "341dbae28617a4a4",
       "type": "group",
       "styleAttributes": {},
@@ -139,110 +193,6 @@
       "width": 400,
       "height": 460,
       "label": "Initialization"
-    },
-    {
-      "id": "ebc80acde92dafab",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -780,
-      "y": -440,
-      "width": 480,
-      "height": 280,
-      "label": "WA Inst. 1"
-    },
-    {
-      "id": "109b9bd6021c483d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 80,
-      "width": 480,
-      "height": 280,
-      "label": "WA Inst. 2"
-    },
-    {
-      "id": "20fdab2a0a25846a",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -3680,
-      "y": 100,
-      "width": 600,
-      "height": 220,
-      "label": "Legacy 14b Mixed Diffusion Interrogation"
-    },
-    {
-      "id": "b0bf636d626c963e",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -5500,
-      "y": -630,
-      "width": 380,
-      "height": 340,
-      "label": "File Preprocessing"
-    },
-    {
-      "id": "a940938da3fa6dc8",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -4200,
-      "y": -820,
-      "width": 400,
-      "height": 300,
-      "label": "Queue File Validation"
-    },
-    {
-      "id": "91018dfb4ee0d724",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2440,
-      "y": -1360,
-      "width": 920,
-      "height": 1760,
-      "label": "Response Processing"
-    },
-    {
-      "id": "efbd622ac72ad3d2",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1440,
-      "y": -540,
-      "width": 1200,
-      "height": 980,
-      "color": "#8773e7",
-      "label": "Carly Model v.6"
-    },
-    {
-      "id": "baffe5535728d952",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1400,
-      "y": -480,
-      "width": 520,
-      "height": 880,
-      "color": "#8cabd9",
-      "label": "Preprocessing"
-    },
-    {
-      "id": "85eaea641f9805fb",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -800,
-      "y": -480,
-      "width": 520,
-      "height": 880,
-      "color": "#732662",
-      "label": "Working Awareness"
-    },
-    {
-      "id": "0420bc80be315d6d",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2100,
-      "y": -1000,
-      "width": 540,
-      "height": 440,
-      "color": "1",
-      "label": "Image Vector manipulation"
     },
     {
       "id": "44bddd1952506465",
@@ -276,6 +226,26 @@
       "label": "Interactions API"
     },
     {
+      "id": "ebc80acde92dafab",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -780,
+      "y": -440,
+      "width": 480,
+      "height": 280,
+      "label": "WA Inst. 1"
+    },
+    {
+      "id": "109b9bd6021c483d",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 80,
+      "width": 480,
+      "height": 280,
+      "label": "WA Inst. 2"
+    },
+    {
       "id": "076d5e29fd23b579",
       "type": "group",
       "styleAttributes": {},
@@ -294,6 +264,36 @@
       "width": 480,
       "height": 280,
       "label": "PreProc Inst. 1"
+    },
+    {
+      "id": "20fdab2a0a25846a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3680,
+      "y": 100,
+      "width": 600,
+      "height": 220,
+      "label": "Legacy 14b Mixed Diffusion Interrogation"
+    },
+    {
+      "id": "b0bf636d626c963e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -5500,
+      "y": -630,
+      "width": 380,
+      "height": 340,
+      "label": "File Preprocessing"
+    },
+    {
+      "id": "a940938da3fa6dc8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -4200,
+      "y": -820,
+      "width": 400,
+      "height": 300,
+      "label": "Queue File Validation"
     },
     {
       "id": "d9ba7933f1b9156c",
