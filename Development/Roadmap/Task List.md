@@ -10,7 +10,7 @@
 - [ ] #task #shp #development SHP v7 Build
 	- [ ] #task #shp #documentation Finish SHP v7 training
 	- [ ] #task #shp #documentation Create new SHP v7 Concept Map Canvas
-- [ ] #task #shp #documentation Eventually introduce UV into library provisioning pipeline
+- [x] #task #shp #documentation Eventually introduce UV into library provisioning pipeline ✅ 2025-05-15
 
 ### Bug Fixes
 - [ ] #task #shp #bugfix ~~fix bugs to do with photo making~~
