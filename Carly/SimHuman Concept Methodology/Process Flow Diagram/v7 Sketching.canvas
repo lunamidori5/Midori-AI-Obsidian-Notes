@@ -1,208 +1,219 @@
 {
-  "nodes": [
-    {
-      "id": "dd81eff045af5bee",
-      "type": "text",
-      "text": "Composition Model\n\n- Rendering Into Output Preferences\n\t- Audio\n\t\t- Live Conversation\n\t\t- \n\t- Text\n\t\t- Formatting Preferences\n\t- Video?",
-      "styleAttributes": {},
-      "x": 360,
-      "y": -130,
-      "width": 340,
-      "height": 300
-    },
-    {
-      "id": "1d88fe61639bd325",
-      "type": "text",
-      "text": "Harness",
-      "styleAttributes": {},
-      "x": 780,
-      "y": -20,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e9b7943f7a568f11",
-      "type": "text",
-      "text": "Vision Model",
-      "styleAttributes": {},
-      "x": -440,
-      "y": -130,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bddcb59363113c67",
-      "type": "text",
-      "text": "Auditory Model",
-      "styleAttributes": {},
-      "x": -440,
-      "y": -50,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3104148c9b1bfdda",
-      "type": "text",
-      "text": "Logic Model",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 30,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "02c4e80c6c8f939e",
-      "type": "text",
-      "text": "Interiority Model",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 110,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3380f68b7fb8dec6",
-      "type": "text",
-      "text": "Emotional Model",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 190,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7c987e35f875bc5d",
-      "type": "text",
-      "text": "Language Model\n",
-      "styleAttributes": {},
-      "x": -440,
-      "y": -210,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a396d65499f205d4",
-      "type": "text",
-      "text": "Semantic Synthesis",
-      "styleAttributes": {},
-      "x": -60,
-      "y": -20,
-      "width": 340,
-      "height": 60
-    }
-  ],
   "edges": [
     {
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "right",
       "id": "9d8d23b0d8723fe7",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "7c987e35f875bc5d",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "e9b7943f7a568f11",
+      "fromSide": "right",
       "id": "16f61358c8cdd361",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "e9b7943f7a568f11",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "bddcb59363113c67",
+      "fromSide": "right",
       "id": "59091608ab7198e9",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "bddcb59363113c67",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "3104148c9b1bfdda",
+      "fromSide": "right",
       "id": "f62ca1a461ac7028",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "3104148c9b1bfdda",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "02c4e80c6c8f939e",
+      "fromSide": "right",
       "id": "a58d3cf53e1de4f1",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "02c4e80c6c8f939e",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "3380f68b7fb8dec6",
+      "fromSide": "right",
       "id": "c4fbf8575b1a9c8f",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "3380f68b7fb8dec6",
-      "fromSide": "right",
       "toNode": "a396d65499f205d4",
       "toSide": "left"
     },
     {
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "left",
       "id": "be72c987e412231f",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "7c987e35f875bc5d",
-      "fromSide": "left",
       "toNode": "e9b7943f7a568f11",
       "toSide": "left"
     },
     {
+      "fromEnd": "arrow",
+      "fromNode": "7c987e35f875bc5d",
+      "fromSide": "left",
       "id": "80efbc781eff11e1",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "7c987e35f875bc5d",
-      "fromSide": "left",
       "toNode": "bddcb59363113c67",
-      "toSide": "left",
-      "fromEnd": "arrow"
+      "toSide": "left"
     },
     {
+      "fromNode": "bddcb59363113c67",
+      "fromSide": "left",
       "id": "e9865f2113e593b3",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "bddcb59363113c67",
-      "fromSide": "left",
       "toNode": "3104148c9b1bfdda",
       "toSide": "left"
     },
     {
+      "fromNode": "3104148c9b1bfdda",
+      "fromSide": "left",
       "id": "db060a1d8679c10e",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "3104148c9b1bfdda",
-      "fromSide": "left",
       "toNode": "02c4e80c6c8f939e",
       "toSide": "left"
     },
     {
+      "fromNode": "02c4e80c6c8f939e",
+      "fromSide": "left",
       "id": "7d6071157dd1e599",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "fromNode": "02c4e80c6c8f939e",
-      "fromSide": "left",
       "toNode": "3380f68b7fb8dec6",
       "toSide": "left"
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 300,
+      "id": "dd81eff045af5bee",
+      "styleAttributes": {
+      },
+      "text": "Composition Model\n\n- Rendering Into Output Preferences\n\t- Audio\n\t\t- Live Conversation\n\t\t- \n\t- Text\n\t\t- Formatting Preferences\n\t- Video?",
+      "type": "text",
+      "width": 340,
+      "x": 360,
+      "y": -130
+    },
+    {
+      "height": 60,
+      "id": "1d88fe61639bd325",
+      "styleAttributes": {
+      },
+      "text": "Harness",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "e9b7943f7a568f11",
+      "styleAttributes": {
+      },
+      "text": "Vision Model",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": -130
+    },
+    {
+      "height": 60,
+      "id": "bddcb59363113c67",
+      "styleAttributes": {
+      },
+      "text": "Auditory Model",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": -50
+    },
+    {
+      "height": 60,
+      "id": "3104148c9b1bfdda",
+      "styleAttributes": {
+      },
+      "text": "Logic Model",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": 30
+    },
+    {
+      "height": 60,
+      "id": "02c4e80c6c8f939e",
+      "styleAttributes": {
+      },
+      "text": "Interiority Model",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": 110
+    },
+    {
+      "height": 60,
+      "id": "3380f68b7fb8dec6",
+      "styleAttributes": {
+      },
+      "text": "Emotional Model",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": 190
+    },
+    {
+      "height": 60,
+      "id": "7c987e35f875bc5d",
+      "styleAttributes": {
+      },
+      "text": "Language Model\n",
+      "type": "text",
+      "width": 260,
+      "x": -440,
+      "y": -210
+    },
+    {
+      "height": 60,
+      "id": "a396d65499f205d4",
+      "styleAttributes": {
+      },
+      "text": "Semantic Synthesis",
+      "type": "text",
+      "width": 340,
+      "x": -60,
+      "y": -20
+    }
+  ]
 }

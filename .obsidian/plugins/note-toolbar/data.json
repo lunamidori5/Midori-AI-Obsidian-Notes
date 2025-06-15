@@ -1,4 +1,6 @@
 {
+  "debugEnabled": false,
+  "emptyViewToolbar": null,
   "export": {
     "includeIcons": true,
     "replaceVars": true,
@@ -12,8 +14,25 @@
     }
   ],
   "icon": "lucide-align-justify",
+  "keepPropsState": false,
+  "onboarding": {
+    "new-toolbar-mapping": true
+  },
   "ribbonAction": "toolbar",
+  "scriptingEnabled": false,
   "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
   "toolbarProp": "toolbar",
   "toolbars": [
     {
@@ -59,7 +78,8 @@
                 ]
               }
             }
-          }
+          },
+          "inGallery": false
         }
       ],
       "mobileStyles": [],
@@ -84,6 +104,6 @@
       "updated": "2024-11-28T20:09:27.041Z"
     }
   ],
-  "version": 20240727.1,
+  "version": 20250313.1,
   "whatsnew_version": 1.14
 }

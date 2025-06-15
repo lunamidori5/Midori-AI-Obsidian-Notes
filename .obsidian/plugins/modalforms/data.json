@@ -33,7 +33,8 @@
           "description": "Select and Existing Category",
           "isRequired": true,
           "input": {
-            "type": "tag"
+            "type": "tag",
+            "hidden": false
           }
         },
         {
