@@ -728,6 +728,64 @@
       "y": -1500
     },
     {
+      "color": "#8773e7",
+      "height": 980,
+      "id": "efbd622ac72ad3d2",
+      "label": "Carly Model v.6",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1200,
+      "x": -1440,
+      "y": -540
+    },
+    {
+      "color": "#8cabd9",
+      "height": 880,
+      "id": "baffe5535728d952",
+      "label": "Preprocessing",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 520,
+      "x": -1400,
+      "y": -480
+    },
+    {
+      "color": "#732662",
+      "height": 880,
+      "id": "85eaea641f9805fb",
+      "label": "Working Awareness",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 520,
+      "x": -800,
+      "y": -480
+    },
+    {
+      "height": 280,
+      "id": "ebc80acde92dafab",
+      "label": "WA Inst. 1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": -780,
+      "y": -440
+    },
+    {
+      "height": 280,
+      "id": "b7db3c7015592fc5",
+      "label": "PreProc Inst. 1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": -1380,
+      "y": -440
+    },
+    {
       "height": 1640,
       "id": "10bb3f6bbf5032cf",
       "label": "MASTER BOT",
@@ -761,18 +819,6 @@
       "y": -1360
     },
     {
-      "color": "#8773e7",
-      "height": 980,
-      "id": "efbd622ac72ad3d2",
-      "label": "Carly Model v.6",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1200,
-      "x": -1440,
-      "y": -540
-    },
-    {
       "height": 640,
       "id": "0b744ca21c6d3404",
       "label": "Vector Store Communication",
@@ -793,30 +839,6 @@
       "width": 1360,
       "x": -6060,
       "y": -170
-    },
-    {
-      "color": "#8cabd9",
-      "height": 880,
-      "id": "baffe5535728d952",
-      "label": "Preprocessing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 520,
-      "x": -1400,
-      "y": -480
-    },
-    {
-      "color": "#732662",
-      "height": 880,
-      "id": "85eaea641f9805fb",
-      "label": "Working Awareness",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 520,
-      "x": -800,
-      "y": -480
     },
     {
       "height": 480,
@@ -965,17 +987,6 @@
     },
     {
       "height": 280,
-      "id": "ebc80acde92dafab",
-      "label": "WA Inst. 1",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -780,
-      "y": -440
-    },
-    {
-      "height": 280,
       "id": "109b9bd6021c483d",
       "label": "WA Inst. 2",
       "styleAttributes": {
@@ -995,17 +1006,6 @@
       "width": 480,
       "x": -1380,
       "y": 80
-    },
-    {
-      "height": 280,
-      "id": "b7db3c7015592fc5",
-      "label": "PreProc Inst. 1",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -1380,
-      "y": -440
     },
     {
       "height": 220,
@@ -1753,18 +1753,6 @@
       "y": 120
     },
     {
-      "height": 80,
-      "id": "2c057dfb9a813825",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chunked Image Ingest",
-      "type": "text",
-      "width": 240,
-      "x": -1260,
-      "y": -90
-    },
-    {
       "height": 240,
       "id": "418d169e4de474e4",
       "styleAttributes": {
@@ -1773,29 +1761,6 @@
       "type": "text",
       "width": 440,
       "x": -1360,
-      "y": 100
-    },
-    {
-      "height": 80,
-      "id": "62aa71f53edad1b6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chunked Image Ingest",
-      "type": "text",
-      "width": 240,
-      "x": -660,
-      "y": -90
-    },
-    {
-      "height": 240,
-      "id": "e3225fb3f90f6fdd",
-      "styleAttributes": {
-      },
-      "text": "Seen Tasks:\n- Full Personality Processing\n- Full Application Communication\n\nNotes:",
-      "type": "text",
-      "width": 440,
-      "x": -760,
       "y": 100
     },
     {
@@ -2036,6 +2001,54 @@
       "y": -500
     },
     {
+      "color": "3",
+      "height": 140,
+      "id": "ba26f7bcfa0222bf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "LOCK MODEL",
+      "type": "text",
+      "width": 180,
+      "x": -1760,
+      "y": -360
+    },
+    {
+      "height": 80,
+      "id": "2c057dfb9a813825",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chunked Image Ingest",
+      "type": "text",
+      "width": 240,
+      "x": -1260,
+      "y": -90
+    },
+    {
+      "height": 80,
+      "id": "62aa71f53edad1b6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chunked Image Ingest",
+      "type": "text",
+      "width": 240,
+      "x": -660,
+      "y": -90
+    },
+    {
+      "height": 240,
+      "id": "e3225fb3f90f6fdd",
+      "styleAttributes": {
+      },
+      "text": "Seen Tasks:\n- Full Personality Processing\n- Full Application Communication\n\nNotes:",
+      "type": "text",
+      "width": 440,
+      "x": -760,
+      "y": 100
+    },
+    {
       "height": 240,
       "id": "2d881eed72c4ae0a",
       "styleAttributes": {
@@ -2056,19 +2069,6 @@
       "width": 440,
       "x": -760,
       "y": -420
-    },
-    {
-      "color": "3",
-      "height": 140,
-      "id": "ba26f7bcfa0222bf",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "LOCK MODEL",
-      "type": "text",
-      "width": 180,
-      "x": -1760,
-      "y": -360
     }
   ]
 }
