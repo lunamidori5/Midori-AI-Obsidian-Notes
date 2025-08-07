@@ -1,2074 +1,1778 @@
 {
-  "edges": [
-    {
-      "fromEnd": "arrow",
-      "fromNode": "2c057dfb9a813825",
-      "fromSide": "top",
-      "id": "06baf5a9d265d71f",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "b7db3c7015592fc5",
-      "toSide": "bottom"
-    },
-    {
-      "fromEnd": "arrow",
-      "fromNode": "2c057dfb9a813825",
-      "fromSide": "bottom",
-      "id": "5873e58535c197ec",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "076d5e29fd23b579",
-      "toSide": "top"
-    },
-    {
-      "fromEnd": "arrow",
-      "fromNode": "62aa71f53edad1b6",
-      "fromSide": "top",
-      "id": "91531f0a6d000904",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "ebc80acde92dafab",
-      "toSide": "bottom"
-    },
-    {
-      "fromEnd": "arrow",
-      "fromNode": "62aa71f53edad1b6",
-      "fromSide": "bottom",
-      "id": "186f7b935e149f6e",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "109b9bd6021c483d",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "0d43964e41638bc3",
-      "fromSide": "bottom",
-      "id": "7e6feebec1cd746d",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "21189e670dd03d01",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "21189e670dd03d01",
-      "fromSide": "right",
-      "id": "e810583c45284815",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "d1d37bb714685fd2",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "00ed45a130ccc5db",
-      "fromSide": "right",
-      "id": "ebb7276051aa31c3",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "0e6fae694679496f",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "fe9b375ebbee7f20",
-      "fromSide": "bottom",
-      "id": "79d01f1898404b14",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "1645e313eb9390c4",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "1645e313eb9390c4",
-      "fromSide": "bottom",
-      "id": "50ffa8d551c9cef9",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "dbad7fc92865d2c8",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "3b544f285041f947",
-      "fromSide": "bottom",
-      "id": "724954034b2c2c32",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "40867dafde3ce7bd",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "0e6fae694679496f",
-      "fromSide": "bottom",
-      "id": "458d61323067106f",
-      "styleAttributes": {
-        "path": "dotted",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "3b544f285041f947",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b0bf636d626c963e",
-      "fromSide": "right",
-      "id": "a4556ef29e1f218e",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "1645e313eb9390c4",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "00ed45a130ccc5db",
-      "fromSide": "right",
-      "id": "c3c41a73c2b1a1b5",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "cf0f6c657c0f8ad6",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "6da9434e2cd6b5cf",
-      "fromSide": "right",
-      "id": "95c5cd28923e3d95",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "40867dafde3ce7bd",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "10bb3f6bbf5032cf",
-      "fromSide": "right",
-      "id": "a9645045e8ddda12",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "8ca3f35f981f556b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "994bd0f9f62b7c79",
-      "fromSide": "left",
-      "id": "51c8f44f1682c564",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "6e922cf1bba72fcd",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "64027c9e7f0ade25",
-      "fromSide": "bottom",
-      "id": "670649228676cfb6",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "b4befda40ad3ba93",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "b4befda40ad3ba93",
-      "fromSide": "bottom",
-      "id": "da74845b50f584fe",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "a3780aa4ff7401d2",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "0a1b5d62758708d0",
-      "fromSide": "bottom",
-      "id": "6c03c69f262b3399",
-      "label": "Detected",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "41c2ba9bf816d43f",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "0a1b5d62758708d0",
-      "fromSide": "bottom",
-      "id": "7cd153b72c13536c",
-      "label": "Missing",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "7eb640394c39895d",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "33db4e394abc5461",
-      "fromSide": "bottom",
-      "id": "a6990e8407d84b9b",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "0a1b5d62758708d0",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "bef8c5e0dbd7f408",
-      "fromSide": "top",
-      "id": "c9246fcc1358bf6a",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "7fc7a30a7ca6efe0",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "fbd9e19adfdab6bd",
-      "fromSide": "left",
-      "id": "3db3c3a8b51cf1c0",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "9b3c4eb82aab1400",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "41c2ba9bf816d43f",
-      "fromSide": "bottom",
-      "id": "eea9efaa62ae65af",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "70454fd31f8e7318",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "7eb640394c39895d",
-      "fromSide": "right",
-      "id": "3682c489b9c4db2d",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "41c2ba9bf816d43f",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "c52c1a79db23844e",
-      "fromSide": "right",
-      "id": "2b602640114d22b3",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bef8c5e0dbd7f408",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "af7e8b3a35b82a10",
-      "fromSide": "right",
-      "id": "e566cc0b0e2d7285",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bef8c5e0dbd7f408",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "62d23762ef17f4d2",
-      "fromSide": "right",
-      "id": "5a18cd529e7de299",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bef8c5e0dbd7f408",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "7fc7a30a7ca6efe0",
-      "fromSide": "right",
-      "id": "5cc465dde8bc11db",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "9b3c4eb82aab1400",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "9b3c4eb82aab1400",
-      "fromSide": "right",
-      "id": "9aa7edd2cb317291",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "f48c0629bac99856",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b69957fbbe30a914",
-      "fromSide": "bottom",
-      "id": "84d5965b1f84cf13",
-      "label": "Public",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "99f9b3eca48d38d2",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "4f61f35cd72fcb0d",
-      "fromSide": "right",
-      "id": "982d5bb72531e9ee",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "b69957fbbe30a914",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "879eee36fe9e35c9",
-      "fromSide": "right",
-      "id": "5f297c8a0dea1060",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "b69957fbbe30a914",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "2ba9e0ae7457191b",
-      "fromSide": "right",
-      "id": "26dc9959a947fa41",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "99f9b3eca48d38d2",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d9ba7933f1b9156c",
-      "fromSide": "bottom",
-      "id": "312091b17b34bb9c",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "bcf3bc925a1cf328",
-      "fromSide": "bottom",
-      "id": "cb8f8c68d6458985",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "fef583203d1009bb",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "fef583203d1009bb",
-      "fromSide": "bottom",
-      "id": "42ab008b6c17290d",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "8f379e07af9d4e18",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "0420bc80be315d6d",
-      "fromSide": "bottom",
-      "id": "d3fa720f2a8b3edd",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "57b04ec56b1cf9b8",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "57b04ec56b1cf9b8",
-      "fromSide": "bottom",
-      "id": "f5a0370bb58aa8e2",
-      "label": "Unlocked?",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "ba26f7bcfa0222bf",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "57b04ec56b1cf9b8",
-      "fromSide": "bottom",
-      "id": "29368616d5573249",
-      "label": "Locked?",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "a246dbde3e08269c",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "a246dbde3e08269c",
-      "fromSide": "right",
-      "id": "22fc7fdb2a9a82f0",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "57b04ec56b1cf9b8",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "ba26f7bcfa0222bf",
-      "fromSide": "bottom",
-      "id": "1312076e58591a74",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "329bde047430c251",
-      "toSide": "top"
-    },
-    {
-      "fromEnd": "arrow",
-      "fromNode": "baffe5535728d952",
-      "fromSide": "right",
-      "id": "df0b2d5f8d14b634",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "85eaea641f9805fb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "20fdab2a0a25846a",
-      "fromSide": "right",
-      "id": "9fb6dbb4114b5eb1",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "89f3001794c711c4",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "9f526905f9b2ea7b",
-      "fromSide": "left",
-      "id": "8dae736d1ed2de33",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "20fdab2a0a25846a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "6d670379e4e71234",
-      "fromSide": "left",
-      "id": "ad3b941994739809",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "20fdab2a0a25846a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "21fe6dd1a875be0c",
-      "fromSide": "left",
-      "id": "942e7e2b7b664136",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "20fdab2a0a25846a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "4d8a20f6b38162d1",
-      "fromSide": "left",
-      "id": "397ea5ecfb440da3",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "20fdab2a0a25846a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "70454fd31f8e7318",
-      "fromSide": "bottom",
-      "id": "94c9095f9ff90e85",
-      "styleAttributes": {
-        "path": "dotted",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "f48c0629bac99856",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "f48c0629bac99856",
-      "fromSide": "bottom",
-      "id": "82f11cb11fd1c2e7",
-      "styleAttributes": {
-        "path": "dotted",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "89f3001794c711c4",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "f48c0629bac99856",
-      "fromSide": "right",
-      "id": "bc79cd0b7e0bbc6b",
-      "styleAttributes": {
-        "path": "dotted",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "6a4c8ac729d3c725",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "b69957fbbe30a914",
-      "fromSide": "right",
-      "id": "d94f9ba82684778d",
-      "label": "DM",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "58b1199d50b127bb",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "99f9b3eca48d38d2",
-      "fromSide": "right",
-      "id": "f0058eb58bd7c0e1",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "d9ba7933f1b9156c",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "58b1199d50b127bb",
-      "fromSide": "bottom",
-      "id": "8e13acfbf578aca5",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "d9ba7933f1b9156c",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "dd15027e08681e81",
-      "fromSide": "right",
-      "id": "c493e7442ac7d3f9",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "7cb917f269fd7106",
-      "fromSide": "right",
-      "id": "053c276d42668378",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "90a63964d496dd78",
-      "fromSide": "right",
-      "id": "85388b7484489860",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "de8a00810fd574e9",
-      "fromSide": "right",
-      "id": "d2e5045c42394a57",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8f5b47f74d79ed3c",
-      "fromSide": "right",
-      "id": "927083e81ccbe2df",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "bcf3bc925a1cf328",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "6a4c8ac729d3c725",
-      "fromSide": "top",
-      "id": "ecc163091b0e7080",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "341dbae28617a4a4",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "329bde047430c251",
-      "fromSide": "bottom",
-      "id": "6c124d7d6d16e636",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "c93a28609cd39a8e",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "c93a28609cd39a8e",
-      "fromSide": "bottom",
-      "id": "4b434266ed6a5443",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "435777aff357c35a",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "435777aff357c35a",
-      "fromSide": "left",
-      "id": "538561994afd1d7f",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "5fdba8374c7ec3cb",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "5fdba8374c7ec3cb",
-      "fromSide": "bottom",
-      "id": "188d9368050759cc",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "ae443271d6d8ee00",
-      "toSide": "top"
-    },
-    {
-      "fromNode": "bc09e6644ab486c2",
-      "fromSide": "right",
-      "id": "7b36a960ec560496",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "8a86d52ce8d29ea0",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8ca3f35f981f556b",
-      "fromSide": "top",
-      "id": "1d5e904c57ccfa5c",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "4ed2a25b975a5f15",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8ca3f35f981f556b",
-      "fromSide": "right",
-      "id": "7edde65eab7bde2e",
-      "styleAttributes": {
-        "path": "short-dashed",
-        "pathfindingMethod": "square"
-      },
-      "toEnd": "none",
-      "toNode": "e36d145770ed20d4",
-      "toSide": "left"
-    },
-    {
-      "fromEnd": "arrow",
-      "fromNode": "329bde047430c251",
-      "fromSide": "right",
-      "id": "4470c62e55efc69c",
-      "styleAttributes": {
-        "arrow": "thin-triangle",
-        "path": "dotted",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "efbd622ac72ad3d2",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {
-    "version": "1.0-1.0"
-  },
-  "nodes": [
-    {
-      "height": 1940,
-      "id": "e36d145770ed20d4",
-      "label": "QUEUE BOT",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 2760,
-      "x": -4240,
-      "y": -1500
-    },
-    {
-      "color": "#8773e7",
-      "height": 980,
-      "id": "efbd622ac72ad3d2",
-      "label": "Carly Model v.6",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1200,
-      "x": -1440,
-      "y": -540
-    },
-    {
-      "color": "#8cabd9",
-      "height": 880,
-      "id": "baffe5535728d952",
-      "label": "Preprocessing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 520,
-      "x": -1400,
-      "y": -480
-    },
-    {
-      "color": "#732662",
-      "height": 880,
-      "id": "85eaea641f9805fb",
-      "label": "Working Awareness",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 520,
-      "x": -800,
-      "y": -480
-    },
-    {
-      "height": 280,
-      "id": "ebc80acde92dafab",
-      "label": "WA Inst. 1",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -780,
-      "y": -440
-    },
-    {
-      "height": 280,
-      "id": "b7db3c7015592fc5",
-      "label": "PreProc Inst. 1",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -1380,
-      "y": -440
-    },
-    {
-      "height": 1640,
-      "id": "10bb3f6bbf5032cf",
-      "label": "MASTER BOT",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1480,
-      "x": -6120,
-      "y": -1350
-    },
-    {
-      "height": 1720,
-      "id": "b64e8fbdeccbe5ab",
-      "label": "Message Preprocessing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1060,
-      "x": -3760,
-      "y": -1320
-    },
-    {
-      "height": 1760,
-      "id": "91018dfb4ee0d724",
-      "label": "Response Processing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 920,
-      "x": -2440,
-      "y": -1360
-    },
-    {
-      "height": 640,
-      "id": "0b744ca21c6d3404",
-      "label": "Vector Store Communication",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 980,
-      "x": -3720,
-      "y": -280
-    },
-    {
-      "height": 340,
-      "id": "7db7732c030f1884",
-      "label": "Command Management",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1360,
-      "x": -6060,
-      "y": -170
-    },
-    {
-      "height": 480,
-      "id": "b76acaf27445b9e1",
-      "label": "Pre-tokened File Management",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 860,
-      "x": -5560,
-      "y": -690
-    },
-    {
-      "height": 920,
-      "id": "8a86d52ce8d29ea0",
-      "label": "Message Management",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 440,
-      "x": -6060,
-      "y": -1150
-    },
-    {
-      "height": 880,
-      "id": "e8540cab7f7d98ca",
-      "label": "Key For Charts",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 400,
-      "x": -4200,
-      "y": -480
-    },
-    {
-      "height": 380,
-      "id": "1d19cff857ab93a0",
-      "label": "Initial Vector Management",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 860,
-      "x": -5560,
-      "y": -1150
-    },
-    {
-      "height": 300,
-      "id": "9e63d7d3ae1a6337",
-      "label": "File Communication",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 980,
-      "x": -3720,
-      "y": -620
-    },
-    {
-      "height": 520,
-      "id": "8f301afef93893ed",
-      "label": "Profile Communication",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 520,
-      "x": -3260,
-      "y": -1180
-    },
-    {
-      "color": "1",
-      "height": 440,
-      "id": "0420bc80be315d6d",
-      "label": "Image Vector manipulation",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 540,
-      "x": -2100,
-      "y": -1000
-    },
-    {
-      "height": 740,
-      "id": "341dbae28617a4a4",
-      "label": "File Object Unpacking",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 320,
-      "x": -2500,
-      "y": -1300
-    },
-    {
-      "height": 520,
-      "id": "c21c3254b4c9e7eb",
-      "label": "User Database Communication",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 420,
-      "x": -3720,
-      "y": -1180
-    },
-    {
-      "height": 460,
-      "id": "1585cac73a6f582d",
-      "label": "Initialization",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 400,
-      "x": -4200,
-      "y": -1320
-    },
-    {
-      "height": 200,
-      "id": "44bddd1952506465",
-      "label": "Post Image Generation ",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 840,
-      "x": -2400,
-      "y": 160
-    },
-    {
-      "height": 180,
-      "id": "95467dd60e45f112",
-      "label": "MODEL LOCKING",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 840,
-      "x": -2400,
-      "y": -460
-    },
-    {
-      "color": "4",
-      "height": 320,
-      "id": "7292d9d505aa5d24",
-      "label": "Interactions API",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 440,
-      "x": -2440,
-      "y": 560
-    },
-    {
-      "height": 280,
-      "id": "109b9bd6021c483d",
-      "label": "WA Inst. 2",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -780,
-      "y": 80
-    },
-    {
-      "height": 280,
-      "id": "076d5e29fd23b579",
-      "label": "PreProc Inst. 2",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 480,
-      "x": -1380,
-      "y": 80
-    },
-    {
-      "height": 220,
-      "id": "20fdab2a0a25846a",
-      "label": "Legacy 14b Mixed Diffusion Interrogation",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 600,
-      "x": -3680,
-      "y": 100
-    },
-    {
-      "height": 340,
-      "id": "b0bf636d626c963e",
-      "label": "File Preprocessing",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 380,
-      "x": -5500,
-      "y": -630
-    },
-    {
-      "height": 300,
-      "id": "a940938da3fa6dc8",
-      "label": "Queue File Validation",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 400,
-      "x": -4200,
-      "y": -820
-    },
-    {
-      "height": 61,
-      "id": "921d2ddd03c38e1d",
-      "styleAttributes": {
-      },
-      "text": "## Global Memory Database (Long Term Memory)",
-      "type": "text",
-      "width": 740,
-      "x": -5500,
-      "y": -1031
-    },
-    {
-      "height": 60,
-      "id": "fe9b375ebbee7f20",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Load User Database",
-      "type": "text",
-      "width": 320,
-      "x": -5080,
-      "y": -630
-    },
-    {
-      "height": 60,
-      "id": "1645e313eb9390c4",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Modify User Database",
-      "type": "text",
-      "width": 320,
-      "x": -5080,
-      "y": -490
-    },
-    {
-      "color": "1",
-      "height": 363,
-      "id": "6e922cf1bba72fcd",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "# FORCE QBOT REBOOT!",
-      "type": "text",
-      "width": 360,
-      "x": -4610,
-      "y": -2000
-    },
-    {
-      "height": 100,
-      "id": "8ca3f35f981f556b",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Queue File",
-      "type": "text",
-      "width": 260,
-      "x": -4560,
-      "y": -580
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "height": 100,
-      "id": "0d43964e41638bc3",
-      "styleAttributes": {
-      },
-      "subpath": "#Command Preprocessing",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -390
-    },
-    {
-      "height": 60,
-      "id": "7efe83465bb8b4ea",
-      "styleAttributes": {
-      },
-      "text": "## Internet Knowledge Resource ",
-      "type": "text",
-      "width": 740,
-      "x": -5500,
-      "y": -1111
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "height": 160,
-      "id": "21189e670dd03d01",
-      "styleAttributes": {
-      },
-      "subpath": "#Command Recognition",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -90
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
-      "height": 160,
-      "id": "d1d37bb714685fd2",
-      "styleAttributes": {
-      },
-      "subpath": "#Command Processing",
-      "type": "file",
-      "width": 320,
-      "x": -5080,
-      "y": -90
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/Master Bot Overview.md",
-      "height": 80,
-      "id": "681cec590b32757b",
-      "styleAttributes": {
-      },
-      "subpath": "#Master Bot Overview",
-      "type": "file",
-      "width": 1360,
-      "x": -6060,
-      "y": -1290
-    },
-    {
-      "height": 70,
-      "id": "dbad7fc92865d2c8",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Commit User Database",
-      "type": "text",
-      "width": 320,
-      "x": -5080,
-      "y": -345
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 60,
-      "id": "6da9434e2cd6b5cf",
-      "styleAttributes": {
-      },
-      "subpath": "#File Upsert",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -490
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 60,
-      "id": "00ed45a130ccc5db",
-      "styleAttributes": {
-      },
-      "subpath": "#Load User Data",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -610
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 60,
-      "id": "88688ea3d654f971",
-      "styleAttributes": {
-      },
-      "subpath": "#Response Candidacy",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -970
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 61,
-      "id": "e9390ce0cbb038da",
-      "styleAttributes": {
-      },
-      "subpath": "#Logging",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -1091
-    },
-    {
-      "height": 60,
-      "id": "eb28b4d51b2bf229",
-      "styleAttributes": {
-      },
-      "text": "## Vetted Knowledge Database (Read-Only Memory)",
-      "type": "text",
-      "width": 740,
-      "x": -5500,
-      "y": -951
-    },
-    {
-      "height": 60,
-      "id": "3b544f285041f947",
-      "styleAttributes": {
-      },
-      "text": "## Load User Profile Photo",
-      "type": "text",
-      "width": 340,
-      "x": -5480,
-      "y": -490
-    },
-    {
-      "height": 60,
-      "id": "40867dafde3ce7bd",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "## User-Provided File Data",
-      "type": "text",
-      "width": 340,
-      "x": -5480,
-      "y": -370
-    },
-    {
-      "height": 60,
-      "id": "0e6fae694679496f",
-      "styleAttributes": {
-      },
-      "text": "## Load User Profile",
-      "type": "text",
-      "width": 340,
-      "x": -5480,
-      "y": -610
-    },
-    {
-      "height": 60,
-      "id": "cf0f6c657c0f8ad6",
-      "styleAttributes": {
-      },
-      "text": "## Per-Profile Vector Memory (Photo-Based Recollection)",
-      "type": "text",
-      "width": 740,
-      "x": -5500,
-      "y": -871
-    },
-    {
-      "color": "4",
-      "height": 320,
-      "id": "bc09e6644ab486c2",
-      "styleAttributes": {
-        "shape": "circle",
-        "textAlign": "center"
-      },
-      "text": "Incoming Discord API Message",
-      "type": "text",
-      "width": 320,
-      "x": -6660,
-      "y": -850
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 60,
-      "id": "04a3e765da5a35f2",
-      "styleAttributes": {
-      },
-      "subpath": "#Message Sterilization",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -730
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
-      "height": 60,
-      "id": "99c6c993242b2a0b",
-      "styleAttributes": {
-      },
-      "subpath": "#User Candidacy",
-      "type": "file",
-      "width": 320,
-      "x": -6000,
-      "y": -850
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "879eee36fe9e35c9",
-      "styleAttributes": {
-      },
-      "text": "Discord API Channel",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -1220
-    },
-    {
-      "height": 60,
-      "id": "7cb917f269fd7106",
-      "styleAttributes": {
-      },
-      "text": "User Profile Vectors",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -900
-    },
-    {
-      "height": 80,
-      "id": "8f5b47f74d79ed3c",
-      "styleAttributes": {
-      },
-      "text": "External Resource Vectors",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -660
-    },
-    {
-      "height": 60,
-      "id": "de8a00810fd574e9",
-      "styleAttributes": {
-      },
-      "text": "Internal Resource Vectors",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -740
-    },
-    {
-      "height": 60,
-      "id": "90a63964d496dd78",
-      "styleAttributes": {
-      },
-      "text": "Message Vectors",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -820
-    },
-    {
-      "height": 50,
-      "id": "33db4e394abc5461",
-      "styleAttributes": {
-      },
-      "text": "## Load User RAM Profile",
-      "type": "text",
-      "width": 440,
-      "x": -3220,
-      "y": -1150
-    },
-    {
-      "height": 120,
-      "id": "41c2ba9bf816d43f",
-      "styleAttributes": {
-      },
-      "text": "## Load User Token Profile\n",
-      "type": "text",
-      "width": 200,
-      "x": -2980,
-      "y": -940
-    },
-    {
-      "height": 120,
-      "id": "7eb640394c39895d",
-      "styleAttributes": {
-      },
-      "text": "## Generate User Token Profile",
-      "type": "text",
-      "width": 200,
-      "x": -3220,
-      "y": -940
-    },
-    {
-      "height": 100,
-      "id": "70454fd31f8e7318",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "## File Object",
-      "type": "text",
-      "width": 200,
-      "x": -2980,
-      "y": -780
-    },
-    {
-      "height": 55,
-      "id": "0a1b5d62758708d0",
-      "styleAttributes": {
-      },
-      "text": "## User Token Profile Detection",
-      "type": "text",
-      "width": 440,
-      "x": -3220,
-      "y": -1060
-    },
-    {
-      "color": "1",
-      "height": 220,
-      "id": "7bfc86bf71a3278e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "# RED - High System Usage",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -460
-    },
-    {
-      "color": "3",
-      "height": 220,
-      "id": "39f73aa8adb5f3d5",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "# YELLOW - Lock Items",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -220
-    },
-    {
-      "height": 100,
-      "id": "d9ba7933f1b9156c",
-      "styleAttributes": {
-      },
-      "text": "Interaction Message Context Object",
-      "type": "text",
-      "width": 220,
-      "x": -1780,
-      "y": -1160
-    },
-    {
-      "height": 80,
-      "id": "58b1199d50b127bb",
-      "styleAttributes": {
-      },
-      "text": "No Public Channel History",
-      "type": "text",
-      "width": 220,
-      "x": -1780,
-      "y": -1290
-    },
-    {
-      "height": 140,
-      "id": "fef583203d1009bb",
-      "styleAttributes": {
-      },
-      "text": "Context Recomposition Processing",
-      "type": "text",
-      "width": 500,
-      "x": -2080,
-      "y": -900
-    },
-    {
-      "height": 60,
-      "id": "bcf3bc925a1cf328",
-      "styleAttributes": {
-      },
-      "text": "CLIP Conversion",
-      "type": "text",
-      "width": 500,
-      "x": -2080,
-      "y": -980
-    },
-    {
-      "height": 60,
-      "id": "dd15027e08681e81",
-      "styleAttributes": {
-      },
-      "text": "User Info Vectors",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -980
-    },
-    {
-      "height": 60,
-      "id": "2ba9e0ae7457191b",
-      "styleAttributes": {
-      },
-      "text": "Known User ID's",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -1140
-    },
-    {
-      "height": 60,
-      "id": "b4befda40ad3ba93",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Read/Modify User Database",
-      "type": "text",
-      "width": 340,
-      "x": -3680,
-      "y": -960
-    },
-    {
-      "height": 60,
-      "id": "64027c9e7f0ade25",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Load User Database",
-      "type": "text",
-      "width": 340,
-      "x": -3680,
-      "y": -1140
-    },
-    {
-      "height": 70,
-      "id": "a3780aa4ff7401d2",
-      "styleAttributes": {
-        "shape": "database",
-        "textAlign": "center"
-      },
-      "text": "## Commit User Database",
-      "type": "text",
-      "width": 340,
-      "x": -3680,
-      "y": -780
-    },
-    {
-      "height": 60,
-      "id": "c52c1a79db23844e",
-      "styleAttributes": {
-      },
-      "text": "Video",
-      "type": "text",
-      "width": 130,
-      "x": -3700,
-      "y": -520
-    },
-    {
-      "height": 60,
-      "id": "fbd9e19adfdab6bd",
-      "styleAttributes": {
-      },
-      "text": "Image",
-      "type": "text",
-      "width": 130,
-      "x": -3700,
-      "y": -600
-    },
-    {
-      "height": 85,
-      "id": "994bd0f9f62b7c79",
-      "styleAttributes": {
-      },
-      "text": "## Detect Restart File",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -780
-    },
-    {
-      "height": 100,
-      "id": "4ed2a25b975a5f15",
-      "styleAttributes": {
-      },
-      "text": "## Detect/Read Queue.json FIle",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -660
-    },
-    {
-      "color": "4",
-      "height": 220,
-      "id": "f7a8a44ea3732fd2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "# GREEN - Discord sock use\n",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": 20
-    },
-    {
-      "height": 80,
-      "id": "fc91e81560b1e436",
-      "styleAttributes": {
-      },
-      "text": "## Start Time Dependant Checks\n",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -1180
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "d4d310eec23bbcf8",
-      "styleAttributes": {
-      },
-      "text": "## Discord Handshake",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -960
-    },
-    {
-      "height": 60,
-      "id": "0fe85b65a969cd6b",
-      "styleAttributes": {
-      },
-      "text": "## Resource Validation  ",
-      "type": "text",
-      "width": 360,
-      "x": -3720,
-      "y": -1280
-    },
-    {
-      "height": 60,
-      "id": "dfb9817635ed784f",
-      "styleAttributes": {
-      },
-      "text": "## Clean Temp dir\n",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -1280
-    },
-    {
-      "height": 60,
-      "id": "9ef77aa24dbc6abb",
-      "styleAttributes": {
-      },
-      "text": "## Master Bot Detection",
-      "type": "text",
-      "width": 320,
-      "x": -4160,
-      "y": -1060
-    },
-    {
-      "file": "Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Queue Bot Disambiguation.md",
-      "height": 50,
-      "id": "98ce9c668481ae29",
-      "styleAttributes": {
-      },
-      "subpath": "#Queue Bot",
-      "type": "file",
-      "width": 2680,
-      "x": -4200,
-      "y": -1460
-    },
-    {
-      "height": 100,
-      "id": "6a4c8ac729d3c725",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "## File Object Unpacking",
-      "type": "text",
-      "width": 220,
-      "x": -2680,
-      "y": -520
-    },
-    {
-      "file": "Carly/Carly-API/Interactions API.md",
-      "height": 240,
-      "id": "ae443271d6d8ee00",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 360,
-      "x": -2400,
-      "y": 600
-    },
-    {
-      "height": 100,
-      "id": "99f9b3eca48d38d2",
-      "styleAttributes": {
-      },
-      "text": "Channel Message History (Prev. 60 Messages)",
-      "type": "text",
-      "width": 240,
-      "x": -2100,
-      "y": -1160
-    },
-    {
-      "height": 60,
-      "id": "b69957fbbe30a914",
-      "styleAttributes": {
-      },
-      "text": "DM or Public?",
-      "type": "text",
-      "width": 240,
-      "x": -2100,
-      "y": -1280
-    },
-    {
-      "height": 160,
-      "id": "8f379e07af9d4e18",
-      "styleAttributes": {
-      },
-      "text": "Image Scale Preparation (128x128x6 Image Chunking)",
-      "type": "text",
-      "width": 500,
-      "x": -2080,
-      "y": -740
-    },
-    {
-      "height": 60,
-      "id": "e484a15785fa3f21",
-      "styleAttributes": {
-      },
-      "text": "ETC...",
-      "type": "text",
-      "width": 260,
-      "x": -3360,
-      "y": 120
-    },
-    {
-      "height": 240,
-      "id": "418d169e4de474e4",
-      "styleAttributes": {
-      },
-      "text": "Seen Tasks:\n- Personality Recognition\n- Literal Memory Parsing\n- Literal Request Processing\n- Literal Personality Composition\n\nNotes:\n\n",
-      "type": "text",
-      "width": 440,
-      "x": -1360,
-      "y": 100
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "4f61f35cd72fcb0d",
-      "styleAttributes": {
-      },
-      "text": "Discord API BOT",
-      "type": "text",
-      "width": 280,
-      "x": -2480,
-      "y": -1280
-    },
-    {
-      "height": 61,
-      "id": "6d670379e4e71234",
-      "styleAttributes": {
-      },
-      "text": "## Global Memory Database (Long Term Memory)",
-      "type": "text",
-      "width": 680,
-      "x": -3680,
-      "y": -161
-    },
-    {
-      "height": 60,
-      "id": "6256c10360ad8750",
-      "styleAttributes": {
-      },
-      "text": "Tone/Voice/Style Recognition",
-      "type": "text",
-      "width": 281,
-      "x": -3660,
-      "y": 180
-    },
-    {
-      "height": 60,
-      "id": "870d860d27e139dd",
-      "styleAttributes": {
-      },
-      "text": "Contextual Sumamrization",
-      "type": "text",
-      "width": 281,
-      "x": -3660,
-      "y": 240
-    },
-    {
-      "height": 60,
-      "id": "21fe6dd1a875be0c",
-      "styleAttributes": {
-      },
-      "text": "## Vetted Knowledge Database (Read-Only Memory)",
-      "type": "text",
-      "width": 680,
-      "x": -3680,
-      "y": -80
-    },
-    {
-      "height": 60,
-      "id": "2ae9baa85a2c50ed",
-      "styleAttributes": {
-      },
-      "text": "Information Pertinency",
-      "type": "text",
-      "width": 281,
-      "x": -3660,
-      "y": 120
-    },
-    {
-      "height": 60,
-      "id": "9f526905f9b2ea7b",
-      "styleAttributes": {
-      },
-      "text": "## Internet Knowledge Resource ",
-      "type": "text",
-      "width": 680,
-      "x": -3680,
-      "y": -240
-    },
-    {
-      "color": "3",
-      "height": 120,
-      "id": "c93a28609cd39a8e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "UNLOCK MODEL",
-      "type": "text",
-      "width": 178,
-      "x": -1760,
-      "y": 120
-    },
-    {
-      "height": 90,
-      "id": "435777aff357c35a",
-      "styleAttributes": {
-      },
-      "text": "Composition Image Stream",
-      "type": "text",
-      "width": 178,
-      "x": -2000,
-      "y": 210
-    },
-    {
-      "height": 260,
-      "id": "329bde047430c251",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "## Model Communication Stream\n\n- Primary Response Composition\n- Internal UNCLIP Interpreter for: \n\t- Error Correction\n\t- Model Intent Review / Audit",
-      "type": "text",
-      "width": 840,
-      "x": -2400,
-      "y": -180
-    },
-    {
-      "height": 90,
-      "id": "5fdba8374c7ec3cb",
-      "styleAttributes": {
-      },
-      "text": "UNCLIP Interpreter",
-      "type": "text",
-      "width": 240,
-      "x": -2340,
-      "y": 210
-    },
-    {
-      "height": 50,
-      "id": "4d8a20f6b38162d1",
-      "styleAttributes": {
-      },
-      "text": "## Per-Profile Vector Memory (Photo-Based Recollection)",
-      "type": "text",
-      "width": 680,
-      "x": -3680,
-      "y": 0
-    },
-    {
-      "height": 60,
-      "id": "62d23762ef17f4d2",
-      "styleAttributes": {
-      },
-      "text": "Text",
-      "type": "text",
-      "width": 130,
-      "x": -3700,
-      "y": -400
-    },
-    {
-      "height": 60,
-      "id": "af7e8b3a35b82a10",
-      "styleAttributes": {
-      },
-      "text": "Audio",
-      "type": "text",
-      "width": 130,
-      "x": -3700,
-      "y": -460
-    },
-    {
-      "height": 60,
-      "id": "7fc7a30a7ca6efe0",
-      "styleAttributes": {
-      },
-      "text": "Prepared Vectored Image",
-      "type": "text",
-      "width": 200,
-      "x": -3440,
-      "y": -500
-    },
-    {
-      "height": 60,
-      "id": "bef8c5e0dbd7f408",
-      "styleAttributes": {
-      },
-      "text": "CLIP Interpreter",
-      "type": "text",
-      "width": 200,
-      "x": -3440,
-      "y": -400
-    },
-    {
-      "height": 50,
-      "id": "a246dbde3e08269c",
-      "styleAttributes": {
-      },
-      "text": "Await MODEL UNLOCK ",
-      "type": "text",
-      "width": 240,
-      "x": -2360,
-      "y": -360
-    },
-    {
-      "height": 50,
-      "id": "57b04ec56b1cf9b8",
-      "styleAttributes": {
-      },
-      "text": "Check Model Lock Status",
-      "type": "text",
-      "width": 260,
-      "x": -2120,
-      "y": -480
-    },
-    {
-      "height": 100,
-      "id": "89f3001794c711c4",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "## File Object",
-      "type": "text",
-      "width": 200,
-      "x": -2980,
-      "y": -240
-    },
-    {
-      "height": 100,
-      "id": "f48c0629bac99856",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "## File Object",
-      "type": "text",
-      "width": 200,
-      "x": -2980,
-      "y": -520
-    },
-    {
-      "height": 60,
-      "id": "9b3c4eb82aab1400",
-      "styleAttributes": {
-      },
-      "text": "Vector Interpreter",
-      "type": "text",
-      "width": 185,
-      "x": -3200,
-      "y": -500
-    },
-    {
-      "color": "3",
-      "height": 140,
-      "id": "ba26f7bcfa0222bf",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "LOCK MODEL",
-      "type": "text",
-      "width": 180,
-      "x": -1760,
-      "y": -360
-    },
-    {
-      "height": 80,
-      "id": "2c057dfb9a813825",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chunked Image Ingest",
-      "type": "text",
-      "width": 240,
-      "x": -1260,
-      "y": -90
-    },
-    {
-      "height": 80,
-      "id": "62aa71f53edad1b6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chunked Image Ingest",
-      "type": "text",
-      "width": 240,
-      "x": -660,
-      "y": -90
-    },
-    {
-      "height": 240,
-      "id": "e3225fb3f90f6fdd",
-      "styleAttributes": {
-      },
-      "text": "Seen Tasks:\n- Full Personality Processing\n- Full Application Communication\n\nNotes:",
-      "type": "text",
-      "width": 440,
-      "x": -760,
-      "y": 100
-    },
-    {
-      "height": 240,
-      "id": "2d881eed72c4ae0a",
-      "styleAttributes": {
-      },
-      "text": "Seen Tasks:\n- Object Recognition\n- Blatant Memory Parsing\n- Blatant Request Processing\n- Blatant Application Communication\n\nNotes:\n",
-      "type": "text",
-      "width": 440,
-      "x": -1360,
-      "y": -420
-    },
-    {
-      "height": 240,
-      "id": "f8249b11e2d38d6b",
-      "styleAttributes": {
-      },
-      "text": "Seen Tasks:\n- Full Memory Parsing\n- Full Request Processing\n\nNotes:\n- See Crash Log (WA-Inst-9-23)",
-      "type": "text",
-      "width": 440,
-      "x": -760,
-      "y": -420
-    }
-  ]
+	"edges":[
+		{
+			"id":"06baf5a9d265d71f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"2c057dfb9a813825",
+			"fromSide":"top",
+			"toNode":"b7db3c7015592fc5",
+			"toSide":"bottom",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"5873e58535c197ec",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"2c057dfb9a813825",
+			"fromSide":"bottom",
+			"toNode":"076d5e29fd23b579",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"91531f0a6d000904",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"62aa71f53edad1b6",
+			"fromSide":"top",
+			"toNode":"ebc80acde92dafab",
+			"toSide":"bottom",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"186f7b935e149f6e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"62aa71f53edad1b6",
+			"fromSide":"bottom",
+			"toNode":"109b9bd6021c483d",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"7e6feebec1cd746d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"0d43964e41638bc3",
+			"fromSide":"bottom",
+			"toNode":"21189e670dd03d01",
+			"toSide":"top"
+		},
+		{
+			"id":"e810583c45284815",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"21189e670dd03d01",
+			"fromSide":"right",
+			"toNode":"d1d37bb714685fd2",
+			"toSide":"left"
+		},
+		{
+			"id":"ebb7276051aa31c3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"00ed45a130ccc5db",
+			"fromSide":"right",
+			"toNode":"0e6fae694679496f",
+			"toSide":"left"
+		},
+		{
+			"id":"79d01f1898404b14",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"fe9b375ebbee7f20",
+			"fromSide":"bottom",
+			"toNode":"1645e313eb9390c4",
+			"toSide":"top"
+		},
+		{
+			"id":"50ffa8d551c9cef9",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"1645e313eb9390c4",
+			"fromSide":"bottom",
+			"toNode":"dbad7fc92865d2c8",
+			"toSide":"top"
+		},
+		{
+			"id":"724954034b2c2c32",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"3b544f285041f947",
+			"fromSide":"bottom",
+			"toNode":"40867dafde3ce7bd",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"458d61323067106f",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"fromNode":"0e6fae694679496f",
+			"fromSide":"bottom",
+			"toNode":"3b544f285041f947",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"a4556ef29e1f218e",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b0bf636d626c963e",
+			"fromSide":"right",
+			"toNode":"1645e313eb9390c4",
+			"toSide":"left"
+		},
+		{
+			"id":"c3c41a73c2b1a1b5",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"00ed45a130ccc5db",
+			"fromSide":"right",
+			"toNode":"cf0f6c657c0f8ad6",
+			"toSide":"left"
+		},
+		{
+			"id":"95c5cd28923e3d95",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6da9434e2cd6b5cf",
+			"fromSide":"right",
+			"toNode":"40867dafde3ce7bd",
+			"toSide":"left"
+		},
+		{
+			"id":"a9645045e8ddda12",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"10bb3f6bbf5032cf",
+			"fromSide":"right",
+			"toNode":"8ca3f35f981f556b",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"51c8f44f1682c564",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"994bd0f9f62b7c79",
+			"fromSide":"left",
+			"toNode":"6e922cf1bba72fcd",
+			"toSide":"bottom"
+		},
+		{
+			"id":"670649228676cfb6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"64027c9e7f0ade25",
+			"fromSide":"bottom",
+			"toNode":"b4befda40ad3ba93",
+			"toSide":"top"
+		},
+		{
+			"id":"da74845b50f584fe",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b4befda40ad3ba93",
+			"fromSide":"bottom",
+			"toNode":"a3780aa4ff7401d2",
+			"toSide":"top"
+		},
+		{
+			"id":"6c03c69f262b3399",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"0a1b5d62758708d0",
+			"fromSide":"bottom",
+			"toNode":"41c2ba9bf816d43f",
+			"toSide":"top",
+			"label":"Detected"
+		},
+		{
+			"id":"7cd153b72c13536c",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"0a1b5d62758708d0",
+			"fromSide":"bottom",
+			"toNode":"7eb640394c39895d",
+			"toSide":"top",
+			"label":"Missing"
+		},
+		{
+			"id":"a6990e8407d84b9b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"33db4e394abc5461",
+			"fromSide":"bottom",
+			"toNode":"0a1b5d62758708d0",
+			"toSide":"top"
+		},
+		{
+			"id":"c9246fcc1358bf6a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"bef8c5e0dbd7f408",
+			"fromSide":"top",
+			"toNode":"7fc7a30a7ca6efe0",
+			"toSide":"bottom"
+		},
+		{
+			"id":"3db3c3a8b51cf1c0",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"fbd9e19adfdab6bd",
+			"fromSide":"left",
+			"toNode":"9b3c4eb82aab1400",
+			"toSide":"top"
+		},
+		{
+			"id":"eea9efaa62ae65af",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"41c2ba9bf816d43f",
+			"fromSide":"bottom",
+			"toNode":"70454fd31f8e7318",
+			"toSide":"top"
+		},
+		{
+			"id":"3682c489b9c4db2d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"7eb640394c39895d",
+			"fromSide":"right",
+			"toNode":"41c2ba9bf816d43f",
+			"toSide":"left"
+		},
+		{
+			"id":"2b602640114d22b3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"c52c1a79db23844e",
+			"fromSide":"right",
+			"toNode":"bef8c5e0dbd7f408",
+			"toSide":"left"
+		},
+		{
+			"id":"e566cc0b0e2d7285",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"af7e8b3a35b82a10",
+			"fromSide":"right",
+			"toNode":"bef8c5e0dbd7f408",
+			"toSide":"left"
+		},
+		{
+			"id":"5a18cd529e7de299",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"62d23762ef17f4d2",
+			"fromSide":"right",
+			"toNode":"bef8c5e0dbd7f408",
+			"toSide":"left"
+		},
+		{
+			"id":"5cc465dde8bc11db",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"7fc7a30a7ca6efe0",
+			"fromSide":"right",
+			"toNode":"9b3c4eb82aab1400",
+			"toSide":"left"
+		},
+		{
+			"id":"9aa7edd2cb317291",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"9b3c4eb82aab1400",
+			"fromSide":"right",
+			"toNode":"f48c0629bac99856",
+			"toSide":"left"
+		},
+		{
+			"id":"84d5965b1f84cf13",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b69957fbbe30a914",
+			"fromSide":"bottom",
+			"toNode":"99f9b3eca48d38d2",
+			"toSide":"top",
+			"label":"Public"
+		},
+		{
+			"id":"982d5bb72531e9ee",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"4f61f35cd72fcb0d",
+			"fromSide":"right",
+			"toNode":"b69957fbbe30a914",
+			"toSide":"left"
+		},
+		{
+			"id":"5f297c8a0dea1060",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"879eee36fe9e35c9",
+			"fromSide":"right",
+			"toNode":"b69957fbbe30a914",
+			"toSide":"left"
+		},
+		{
+			"id":"26dc9959a947fa41",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"2ba9e0ae7457191b",
+			"fromSide":"right",
+			"toNode":"99f9b3eca48d38d2",
+			"toSide":"left"
+		},
+		{
+			"id":"312091b17b34bb9c",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"d9ba7933f1b9156c",
+			"fromSide":"bottom",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"top"
+		},
+		{
+			"id":"cb8f8c68d6458985",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"bcf3bc925a1cf328",
+			"fromSide":"bottom",
+			"toNode":"fef583203d1009bb",
+			"toSide":"top"
+		},
+		{
+			"id":"42ab008b6c17290d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"fef583203d1009bb",
+			"fromSide":"bottom",
+			"toNode":"8f379e07af9d4e18",
+			"toSide":"top"
+		},
+		{
+			"id":"d3fa720f2a8b3edd",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"0420bc80be315d6d",
+			"fromSide":"bottom",
+			"toNode":"57b04ec56b1cf9b8",
+			"toSide":"top"
+		},
+		{
+			"id":"f5a0370bb58aa8e2",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"57b04ec56b1cf9b8",
+			"fromSide":"bottom",
+			"toNode":"ba26f7bcfa0222bf",
+			"toSide":"top",
+			"label":"Unlocked?"
+		},
+		{
+			"id":"29368616d5573249",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"57b04ec56b1cf9b8",
+			"fromSide":"bottom",
+			"toNode":"a246dbde3e08269c",
+			"toSide":"top",
+			"label":"Locked?"
+		},
+		{
+			"id":"22fc7fdb2a9a82f0",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"a246dbde3e08269c",
+			"fromSide":"right",
+			"toNode":"57b04ec56b1cf9b8",
+			"toSide":"bottom"
+		},
+		{
+			"id":"1312076e58591a74",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"ba26f7bcfa0222bf",
+			"fromSide":"bottom",
+			"toNode":"329bde047430c251",
+			"toSide":"top"
+		},
+		{
+			"id":"df0b2d5f8d14b634",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"baffe5535728d952",
+			"fromSide":"right",
+			"toNode":"85eaea641f9805fb",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"9fb6dbb4114b5eb1",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"20fdab2a0a25846a",
+			"fromSide":"right",
+			"toNode":"89f3001794c711c4",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8dae736d1ed2de33",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"9f526905f9b2ea7b",
+			"fromSide":"left",
+			"toNode":"20fdab2a0a25846a",
+			"toSide":"left"
+		},
+		{
+			"id":"ad3b941994739809",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6d670379e4e71234",
+			"fromSide":"left",
+			"toNode":"20fdab2a0a25846a",
+			"toSide":"left"
+		},
+		{
+			"id":"942e7e2b7b664136",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"21fe6dd1a875be0c",
+			"fromSide":"left",
+			"toNode":"20fdab2a0a25846a",
+			"toSide":"left"
+		},
+		{
+			"id":"397ea5ecfb440da3",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"4d8a20f6b38162d1",
+			"fromSide":"left",
+			"toNode":"20fdab2a0a25846a",
+			"toSide":"left"
+		},
+		{
+			"id":"94c9095f9ff90e85",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"fromNode":"70454fd31f8e7318",
+			"fromSide":"bottom",
+			"toNode":"f48c0629bac99856",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"82f11cb11fd1c2e7",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"fromNode":"f48c0629bac99856",
+			"fromSide":"bottom",
+			"toNode":"89f3001794c711c4",
+			"toSide":"top",
+			"toEnd":"none"
+		},
+		{
+			"id":"bc79cd0b7e0bbc6b",
+			"styleAttributes":{"path":"dotted","pathfindingMethod":"square"},
+			"fromNode":"f48c0629bac99856",
+			"fromSide":"right",
+			"toNode":"6a4c8ac729d3c725",
+			"toSide":"left"
+		},
+		{
+			"id":"d94f9ba82684778d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"b69957fbbe30a914",
+			"fromSide":"right",
+			"toNode":"58b1199d50b127bb",
+			"toSide":"left",
+			"label":"DM"
+		},
+		{
+			"id":"f0058eb58bd7c0e1",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"99f9b3eca48d38d2",
+			"fromSide":"right",
+			"toNode":"d9ba7933f1b9156c",
+			"toSide":"left"
+		},
+		{
+			"id":"8e13acfbf578aca5",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"58b1199d50b127bb",
+			"fromSide":"bottom",
+			"toNode":"d9ba7933f1b9156c",
+			"toSide":"top"
+		},
+		{
+			"id":"c493e7442ac7d3f9",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"dd15027e08681e81",
+			"fromSide":"right",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"left"
+		},
+		{
+			"id":"053c276d42668378",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"7cb917f269fd7106",
+			"fromSide":"right",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"left"
+		},
+		{
+			"id":"85388b7484489860",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"90a63964d496dd78",
+			"fromSide":"right",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"left"
+		},
+		{
+			"id":"d2e5045c42394a57",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"de8a00810fd574e9",
+			"fromSide":"right",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"left"
+		},
+		{
+			"id":"927083e81ccbe2df",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"8f5b47f74d79ed3c",
+			"fromSide":"right",
+			"toNode":"bcf3bc925a1cf328",
+			"toSide":"left"
+		},
+		{
+			"id":"ecc163091b0e7080",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"6a4c8ac729d3c725",
+			"fromSide":"top",
+			"toNode":"341dbae28617a4a4",
+			"toSide":"left"
+		},
+		{
+			"id":"6c124d7d6d16e636",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"329bde047430c251",
+			"fromSide":"bottom",
+			"toNode":"c93a28609cd39a8e",
+			"toSide":"top"
+		},
+		{
+			"id":"4b434266ed6a5443",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"c93a28609cd39a8e",
+			"fromSide":"bottom",
+			"toNode":"435777aff357c35a",
+			"toSide":"right"
+		},
+		{
+			"id":"538561994afd1d7f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"435777aff357c35a",
+			"fromSide":"left",
+			"toNode":"5fdba8374c7ec3cb",
+			"toSide":"right"
+		},
+		{
+			"id":"188d9368050759cc",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"5fdba8374c7ec3cb",
+			"fromSide":"bottom",
+			"toNode":"ae443271d6d8ee00",
+			"toSide":"top"
+		},
+		{
+			"id":"7b36a960ec560496",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"bc09e6644ab486c2",
+			"fromSide":"right",
+			"toNode":"8a86d52ce8d29ea0",
+			"toSide":"left"
+		},
+		{
+			"id":"1d5e904c57ccfa5c",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"8ca3f35f981f556b",
+			"fromSide":"top",
+			"toNode":"4ed2a25b975a5f15",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"7edde65eab7bde2e",
+			"styleAttributes":{"path":"short-dashed","pathfindingMethod":"square"},
+			"fromNode":"8ca3f35f981f556b",
+			"fromSide":"right",
+			"toNode":"e36d145770ed20d4",
+			"toSide":"left",
+			"toEnd":"none"
+		},
+		{
+			"id":"4470c62e55efc69c",
+			"styleAttributes":{"arrow":"thin-triangle","path":"dotted","pathfindingMethod":"square"},
+			"fromNode":"329bde047430c251",
+			"fromSide":"right",
+			"toNode":"efbd622ac72ad3d2",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		}
+	],
+	"metadata":{"version":"1.0-1.0"},
+	"nodes":[
+		{
+			"id":"e36d145770ed20d4",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-4240,
+			"y":-1500,
+			"width":2760,
+			"height":1940,
+			"label":"QUEUE BOT"
+		},
+		{
+			"id":"10bb3f6bbf5032cf",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-6120,
+			"y":-1350,
+			"width":1480,
+			"height":1640,
+			"label":"MASTER BOT"
+		},
+		{
+			"id":"b64e8fbdeccbe5ab",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3760,
+			"y":-1320,
+			"width":1060,
+			"height":1720,
+			"label":"Message Preprocessing"
+		},
+		{
+			"id":"91018dfb4ee0d724",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2440,
+			"y":-1360,
+			"width":920,
+			"height":1760,
+			"label":"Response Processing"
+		},
+		{
+			"id":"efbd622ac72ad3d2",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1440,
+			"y":-540,
+			"width":1200,
+			"height":980,
+			"color":"#8773e7",
+			"label":"Carly Model v.6"
+		},
+		{
+			"id":"0b744ca21c6d3404",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3720,
+			"y":-280,
+			"width":980,
+			"height":640,
+			"label":"Vector Store Communication"
+		},
+		{
+			"id":"7db7732c030f1884",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-6060,
+			"y":-170,
+			"width":1360,
+			"height":340,
+			"label":"Command Management"
+		},
+		{
+			"id":"baffe5535728d952",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1400,
+			"y":-480,
+			"width":520,
+			"height":880,
+			"color":"#8cabd9",
+			"label":"Preprocessing"
+		},
+		{
+			"id":"85eaea641f9805fb",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-800,
+			"y":-480,
+			"width":520,
+			"height":880,
+			"color":"#732662",
+			"label":"Working Awareness"
+		},
+		{
+			"id":"b76acaf27445b9e1",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-5560,
+			"y":-690,
+			"width":860,
+			"height":480,
+			"label":"Pre-tokened File Management"
+		},
+		{
+			"id":"8a86d52ce8d29ea0",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-6060,
+			"y":-1150,
+			"width":440,
+			"height":920,
+			"label":"Message Management"
+		},
+		{
+			"id":"e8540cab7f7d98ca",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-4200,
+			"y":-480,
+			"width":400,
+			"height":880,
+			"label":"Key For Charts"
+		},
+		{
+			"id":"1d19cff857ab93a0",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-5560,
+			"y":-1150,
+			"width":860,
+			"height":380,
+			"label":"Initial Vector Management"
+		},
+		{
+			"id":"9e63d7d3ae1a6337",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3720,
+			"y":-620,
+			"width":980,
+			"height":300,
+			"label":"File Communication"
+		},
+		{
+			"id":"8f301afef93893ed",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3260,
+			"y":-1180,
+			"width":520,
+			"height":520,
+			"label":"Profile Communication"
+		},
+		{
+			"id":"0420bc80be315d6d",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2100,
+			"y":-1000,
+			"width":540,
+			"height":440,
+			"color":"1",
+			"label":"Image Vector manipulation"
+		},
+		{
+			"id":"341dbae28617a4a4",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2500,
+			"y":-1300,
+			"width":320,
+			"height":740,
+			"label":"File Object Unpacking"
+		},
+		{
+			"id":"c21c3254b4c9e7eb",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3720,
+			"y":-1180,
+			"width":420,
+			"height":520,
+			"label":"User Database Communication"
+		},
+		{
+			"id":"1585cac73a6f582d",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-4200,
+			"y":-1320,
+			"width":400,
+			"height":460,
+			"label":"Initialization"
+		},
+		{
+			"id":"44bddd1952506465",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2400,
+			"y":160,
+			"width":840,
+			"height":200,
+			"label":"Post Image Generation "
+		},
+		{
+			"id":"95467dd60e45f112",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2400,
+			"y":-460,
+			"width":840,
+			"height":180,
+			"label":"MODEL LOCKING"
+		},
+		{
+			"id":"7292d9d505aa5d24",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-2440,
+			"y":560,
+			"width":440,
+			"height":320,
+			"color":"4",
+			"label":"Interactions API"
+		},
+		{
+			"id":"ebc80acde92dafab",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-780,
+			"y":-440,
+			"width":480,
+			"height":280,
+			"label":"WA Inst. 1"
+		},
+		{
+			"id":"b7db3c7015592fc5",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1380,
+			"y":-440,
+			"width":480,
+			"height":280,
+			"label":"PreProc Inst. 1"
+		},
+		{
+			"id":"109b9bd6021c483d",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-780,
+			"y":80,
+			"width":480,
+			"height":280,
+			"label":"WA Inst. 2"
+		},
+		{
+			"id":"076d5e29fd23b579",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-1380,
+			"y":80,
+			"width":480,
+			"height":280,
+			"label":"PreProc Inst. 2"
+		},
+		{
+			"id":"20fdab2a0a25846a",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-3680,
+			"y":100,
+			"width":600,
+			"height":220,
+			"label":"Legacy 14b Mixed Diffusion Interrogation"
+		},
+		{
+			"id":"b0bf636d626c963e",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-5500,
+			"y":-630,
+			"width":380,
+			"height":340,
+			"label":"File Preprocessing"
+		},
+		{
+			"id":"a940938da3fa6dc8",
+			"styleAttributes":{},
+			"type":"group",
+			"x":-4200,
+			"y":-820,
+			"width":400,
+			"height":300,
+			"label":"Queue File Validation"
+		},
+		{
+			"id":"418d169e4de474e4",
+			"styleAttributes":{},
+			"text":"Seen Tasks:\n- Personality Recognition\n- Literal Memory Parsing\n- Literal Request Processing\n- Literal Personality Composition\n\nNotes:\n\n",
+			"type":"text",
+			"x":-1360,
+			"y":100,
+			"width":440,
+			"height":240
+		},
+		{
+			"id":"2c057dfb9a813825",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Chunked Image Ingest",
+			"type":"text",
+			"x":-1260,
+			"y":-90,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"62aa71f53edad1b6",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Chunked Image Ingest",
+			"type":"text",
+			"x":-660,
+			"y":-90,
+			"width":240,
+			"height":80
+		},
+		{
+			"id":"e3225fb3f90f6fdd",
+			"styleAttributes":{},
+			"text":"Seen Tasks:\n- Full Personality Processing\n- Full Application Communication\n\nNotes:",
+			"type":"text",
+			"x":-760,
+			"y":100,
+			"width":440,
+			"height":240
+		},
+		{
+			"file":"Carly/Carly-API/Interactions API.md",
+			"id":"ae443271d6d8ee00",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-2400,
+			"y":600,
+			"width":360,
+			"height":240
+		},
+		{
+			"id":"435777aff357c35a",
+			"styleAttributes":{},
+			"text":"Composition Image Stream",
+			"type":"text",
+			"x":-2000,
+			"y":210,
+			"width":178,
+			"height":90
+		},
+		{
+			"id":"2d881eed72c4ae0a",
+			"styleAttributes":{},
+			"text":"Seen Tasks:\n- Object Recognition\n- Blatant Memory Parsing\n- Blatant Request Processing\n- Blatant Application Communication\n\nNotes:\n",
+			"type":"text",
+			"x":-1360,
+			"y":-420,
+			"width":440,
+			"height":240
+		},
+		{
+			"id":"f8249b11e2d38d6b",
+			"styleAttributes":{},
+			"text":"Seen Tasks:\n- Full Memory Parsing\n- Full Request Processing\n\nNotes:\n- See Crash Log (WA-Inst-9-23)",
+			"type":"text",
+			"x":-760,
+			"y":-420,
+			"width":440,
+			"height":240
+		},
+		{
+			"id":"e484a15785fa3f21",
+			"styleAttributes":{},
+			"text":"ETC...",
+			"type":"text",
+			"x":-3360,
+			"y":120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c93a28609cd39a8e",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"UNLOCK MODEL",
+			"type":"text",
+			"x":-1760,
+			"y":120,
+			"width":178,
+			"height":120,
+			"color":"3"
+		},
+		{
+			"id":"329bde047430c251",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"## Model Communication Stream\n\n- Primary Response Composition\n- Internal UNCLIP Interpreter for: \n\t- Error Correction\n\t- Model Intent Review / Audit",
+			"type":"text",
+			"x":-2400,
+			"y":-180,
+			"width":840,
+			"height":260
+		},
+		{
+			"id":"5fdba8374c7ec3cb",
+			"styleAttributes":{},
+			"text":"UNCLIP Interpreter",
+			"type":"text",
+			"x":-2340,
+			"y":210,
+			"width":240,
+			"height":90
+		},
+		{
+			"id":"a246dbde3e08269c",
+			"styleAttributes":{},
+			"text":"Await MODEL UNLOCK ",
+			"type":"text",
+			"x":-2360,
+			"y":-360,
+			"width":240,
+			"height":50
+		},
+		{
+			"id":"ba26f7bcfa0222bf",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"LOCK MODEL",
+			"type":"text",
+			"x":-1760,
+			"y":-360,
+			"width":180,
+			"height":140,
+			"color":"3"
+		},
+		{
+			"id":"6d670379e4e71234",
+			"styleAttributes":{},
+			"text":"## Global Memory Database (Long Term Memory)",
+			"type":"text",
+			"x":-3680,
+			"y":-161,
+			"width":680,
+			"height":61
+		},
+		{
+			"id":"9f526905f9b2ea7b",
+			"styleAttributes":{},
+			"text":"## Internet Knowledge Resource ",
+			"type":"text",
+			"x":-3680,
+			"y":-240,
+			"width":680,
+			"height":60
+		},
+		{
+			"id":"57b04ec56b1cf9b8",
+			"styleAttributes":{},
+			"text":"Check Model Lock Status",
+			"type":"text",
+			"x":-2120,
+			"y":-480,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"21fe6dd1a875be0c",
+			"styleAttributes":{},
+			"text":"## Vetted Knowledge Database (Read-Only Memory)",
+			"type":"text",
+			"x":-3680,
+			"y":-80,
+			"width":680,
+			"height":60
+		},
+		{
+			"id":"6a4c8ac729d3c725",
+			"styleAttributes":{"shape":"predefined-process"},
+			"text":"## File Object Unpacking",
+			"type":"text",
+			"x":-2680,
+			"y":-520,
+			"width":220,
+			"height":100
+		},
+		{
+			"id":"4d8a20f6b38162d1",
+			"styleAttributes":{},
+			"text":"## Per-Profile Vector Memory (Photo-Based Recollection)",
+			"type":"text",
+			"x":-3680,
+			"y":0,
+			"width":680,
+			"height":50
+		},
+		{
+			"id":"89f3001794c711c4",
+			"styleAttributes":{"shape":"predefined-process"},
+			"text":"## File Object",
+			"type":"text",
+			"x":-2980,
+			"y":-240,
+			"width":200,
+			"height":100
+		},
+		{
+			"id":"f48c0629bac99856",
+			"styleAttributes":{"shape":"predefined-process"},
+			"text":"## File Object",
+			"type":"text",
+			"x":-2980,
+			"y":-520,
+			"width":200,
+			"height":100
+		},
+		{
+			"id":"9b3c4eb82aab1400",
+			"styleAttributes":{},
+			"text":"Vector Interpreter",
+			"type":"text",
+			"x":-3200,
+			"y":-500,
+			"width":185,
+			"height":60
+		},
+		{
+			"id":"8f5b47f74d79ed3c",
+			"styleAttributes":{},
+			"text":"External Resource Vectors",
+			"type":"text",
+			"x":-2480,
+			"y":-660,
+			"width":280,
+			"height":80
+		},
+		{
+			"id":"8f379e07af9d4e18",
+			"styleAttributes":{},
+			"text":"Image Scale Preparation (128x128x6 Image Chunking)",
+			"type":"text",
+			"x":-2080,
+			"y":-740,
+			"width":500,
+			"height":160
+		},
+		{
+			"id":"de8a00810fd574e9",
+			"styleAttributes":{},
+			"text":"Internal Resource Vectors",
+			"type":"text",
+			"x":-2480,
+			"y":-740,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"70454fd31f8e7318",
+			"styleAttributes":{"shape":"predefined-process"},
+			"text":"## File Object",
+			"type":"text",
+			"x":-2980,
+			"y":-780,
+			"width":200,
+			"height":100
+		},
+		{
+			"id":"90a63964d496dd78",
+			"styleAttributes":{},
+			"text":"Message Vectors",
+			"type":"text",
+			"x":-2480,
+			"y":-820,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"41c2ba9bf816d43f",
+			"styleAttributes":{},
+			"text":"## Load User Token Profile\n",
+			"type":"text",
+			"x":-2980,
+			"y":-940,
+			"width":200,
+			"height":120
+		},
+		{
+			"id":"7eb640394c39895d",
+			"styleAttributes":{},
+			"text":"## Generate User Token Profile",
+			"type":"text",
+			"x":-3220,
+			"y":-940,
+			"width":200,
+			"height":120
+		},
+		{
+			"id":"fef583203d1009bb",
+			"styleAttributes":{},
+			"text":"Context Recomposition Processing",
+			"type":"text",
+			"x":-2080,
+			"y":-900,
+			"width":500,
+			"height":140
+		},
+		{
+			"id":"7cb917f269fd7106",
+			"styleAttributes":{},
+			"text":"User Profile Vectors",
+			"type":"text",
+			"x":-2480,
+			"y":-900,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"bcf3bc925a1cf328",
+			"styleAttributes":{},
+			"text":"CLIP Conversion",
+			"type":"text",
+			"x":-2080,
+			"y":-980,
+			"width":500,
+			"height":60
+		},
+		{
+			"id":"dd15027e08681e81",
+			"styleAttributes":{},
+			"text":"User Info Vectors",
+			"type":"text",
+			"x":-2480,
+			"y":-980,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"b4befda40ad3ba93",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Read/Modify User Database",
+			"type":"text",
+			"x":-3680,
+			"y":-960,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"a3780aa4ff7401d2",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Commit User Database",
+			"type":"text",
+			"x":-3680,
+			"y":-780,
+			"width":340,
+			"height":70
+		},
+		{
+			"id":"7fc7a30a7ca6efe0",
+			"styleAttributes":{},
+			"text":"Prepared Vectored Image",
+			"type":"text",
+			"x":-3440,
+			"y":-500,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"bef8c5e0dbd7f408",
+			"styleAttributes":{},
+			"text":"CLIP Interpreter",
+			"type":"text",
+			"x":-3440,
+			"y":-400,
+			"width":200,
+			"height":60
+		},
+		{
+			"id":"0a1b5d62758708d0",
+			"styleAttributes":{},
+			"text":"## User Token Profile Detection",
+			"type":"text",
+			"x":-3220,
+			"y":-1060,
+			"width":440,
+			"height":55
+		},
+		{
+			"id":"d9ba7933f1b9156c",
+			"styleAttributes":{},
+			"text":"Interaction Message Context Object",
+			"type":"text",
+			"x":-1780,
+			"y":-1160,
+			"width":220,
+			"height":100
+		},
+		{
+			"id":"99f9b3eca48d38d2",
+			"styleAttributes":{},
+			"text":"Channel Message History (Prev. 60 Messages)",
+			"type":"text",
+			"x":-2100,
+			"y":-1160,
+			"width":240,
+			"height":100
+		},
+		{
+			"id":"6256c10360ad8750",
+			"styleAttributes":{},
+			"text":"Tone/Voice/Style Recognition",
+			"type":"text",
+			"x":-3660,
+			"y":180,
+			"width":281,
+			"height":60
+		},
+		{
+			"id":"870d860d27e139dd",
+			"styleAttributes":{},
+			"text":"Contextual Sumamrization",
+			"type":"text",
+			"x":-3660,
+			"y":240,
+			"width":281,
+			"height":60
+		},
+		{
+			"id":"2ae9baa85a2c50ed",
+			"styleAttributes":{},
+			"text":"Information Pertinency",
+			"type":"text",
+			"x":-3660,
+			"y":120,
+			"width":281,
+			"height":60
+		},
+		{
+			"id":"879eee36fe9e35c9",
+			"styleAttributes":{},
+			"text":"Discord API Channel",
+			"type":"text",
+			"x":-2480,
+			"y":-1220,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"58b1199d50b127bb",
+			"styleAttributes":{},
+			"text":"No Public Channel History",
+			"type":"text",
+			"x":-1780,
+			"y":-1290,
+			"width":220,
+			"height":80
+		},
+		{
+			"id":"2ba9e0ae7457191b",
+			"styleAttributes":{},
+			"text":"Known User ID's",
+			"type":"text",
+			"x":-2480,
+			"y":-1140,
+			"width":280,
+			"height":60
+		},
+		{
+			"id":"64027c9e7f0ade25",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Load User Database",
+			"type":"text",
+			"x":-3680,
+			"y":-1140,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"c52c1a79db23844e",
+			"styleAttributes":{},
+			"text":"Video",
+			"type":"text",
+			"x":-3700,
+			"y":-520,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"fbd9e19adfdab6bd",
+			"styleAttributes":{},
+			"text":"Image",
+			"type":"text",
+			"x":-3700,
+			"y":-600,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"0fe85b65a969cd6b",
+			"styleAttributes":{},
+			"text":"## Resource Validation  ",
+			"type":"text",
+			"x":-3720,
+			"y":-1280,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"b69957fbbe30a914",
+			"styleAttributes":{},
+			"text":"DM or Public?",
+			"type":"text",
+			"x":-2100,
+			"y":-1280,
+			"width":240,
+			"height":60
+		},
+		{
+			"id":"62d23762ef17f4d2",
+			"styleAttributes":{},
+			"text":"Text",
+			"type":"text",
+			"x":-3700,
+			"y":-400,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"af7e8b3a35b82a10",
+			"styleAttributes":{},
+			"text":"Audio",
+			"type":"text",
+			"x":-3700,
+			"y":-460,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"7bfc86bf71a3278e",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# RED - High System Usage",
+			"type":"text",
+			"x":-4160,
+			"y":-460,
+			"width":320,
+			"height":220,
+			"color":"1"
+		},
+		{
+			"id":"39f73aa8adb5f3d5",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# YELLOW - Lock Items",
+			"type":"text",
+			"x":-4160,
+			"y":-220,
+			"width":320,
+			"height":220,
+			"color":"3"
+		},
+		{
+			"id":"994bd0f9f62b7c79",
+			"styleAttributes":{},
+			"text":"## Detect Restart File",
+			"type":"text",
+			"x":-4160,
+			"y":-780,
+			"width":320,
+			"height":85
+		},
+		{
+			"id":"4ed2a25b975a5f15",
+			"styleAttributes":{},
+			"text":"## Detect/Read Queue.json FIle",
+			"type":"text",
+			"x":-4160,
+			"y":-660,
+			"width":320,
+			"height":100
+		},
+		{
+			"id":"f7a8a44ea3732fd2",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"# GREEN - Discord sock use\n",
+			"type":"text",
+			"x":-4160,
+			"y":20,
+			"width":320,
+			"height":220,
+			"color":"4"
+		},
+		{
+			"id":"fc91e81560b1e436",
+			"styleAttributes":{},
+			"text":"## Start Time Dependant Checks\n",
+			"type":"text",
+			"x":-4160,
+			"y":-1180,
+			"width":320,
+			"height":80
+		},
+		{
+			"id":"d4d310eec23bbcf8",
+			"styleAttributes":{},
+			"text":"## Discord Handshake",
+			"type":"text",
+			"x":-4160,
+			"y":-960,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4f61f35cd72fcb0d",
+			"styleAttributes":{},
+			"text":"Discord API BOT",
+			"type":"text",
+			"x":-2480,
+			"y":-1280,
+			"width":280,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"921d2ddd03c38e1d",
+			"styleAttributes":{},
+			"text":"## Global Memory Database (Long Term Memory)",
+			"type":"text",
+			"x":-5500,
+			"y":-1031,
+			"width":740,
+			"height":61
+		},
+		{
+			"id":"fe9b375ebbee7f20",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Load User Database",
+			"type":"text",
+			"x":-5080,
+			"y":-630,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"1645e313eb9390c4",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Modify User Database",
+			"type":"text",
+			"x":-5080,
+			"y":-490,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"6e922cf1bba72fcd",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"text":"# FORCE QBOT REBOOT!",
+			"type":"text",
+			"x":-4610,
+			"y":-2000,
+			"width":360,
+			"height":363,
+			"color":"1"
+		},
+		{
+			"id":"8ca3f35f981f556b",
+			"styleAttributes":{"textAlign":"center"},
+			"text":"Queue File",
+			"type":"text",
+			"x":-4560,
+			"y":-580,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"7efe83465bb8b4ea",
+			"styleAttributes":{},
+			"text":"## Internet Knowledge Resource ",
+			"type":"text",
+			"x":-5500,
+			"y":-1111,
+			"width":740,
+			"height":60
+		},
+		{
+			"id":"eb28b4d51b2bf229",
+			"styleAttributes":{},
+			"text":"## Vetted Knowledge Database (Read-Only Memory)",
+			"type":"text",
+			"x":-5500,
+			"y":-951,
+			"width":740,
+			"height":60
+		},
+		{
+			"id":"cf0f6c657c0f8ad6",
+			"styleAttributes":{},
+			"text":"## Per-Profile Vector Memory (Photo-Based Recollection)",
+			"type":"text",
+			"x":-5500,
+			"y":-871,
+			"width":740,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+			"id":"21189e670dd03d01",
+			"styleAttributes":{},
+			"subpath":"#Command Recognition",
+			"type":"file",
+			"x":-6000,
+			"y":-90,
+			"width":320,
+			"height":160
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+			"id":"d1d37bb714685fd2",
+			"styleAttributes":{},
+			"subpath":"#Command Processing",
+			"type":"file",
+			"x":-5080,
+			"y":-90,
+			"width":320,
+			"height":160
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/Master Bot Overview.md",
+			"id":"681cec590b32757b",
+			"styleAttributes":{},
+			"subpath":"#Master Bot Overview",
+			"type":"file",
+			"x":-6060,
+			"y":-1290,
+			"width":1360,
+			"height":80
+		},
+		{
+			"id":"dbad7fc92865d2c8",
+			"styleAttributes":{"shape":"database","textAlign":"center"},
+			"text":"## Commit User Database",
+			"type":"text",
+			"x":-5080,
+			"y":-345,
+			"width":320,
+			"height":70
+		},
+		{
+			"id":"3b544f285041f947",
+			"styleAttributes":{},
+			"text":"## Load User Profile Photo",
+			"type":"text",
+			"x":-5480,
+			"y":-490,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"40867dafde3ce7bd",
+			"styleAttributes":{
+				"shape":null
+			},
+			"text":"## User-Provided File Data",
+			"type":"text",
+			"x":-5480,
+			"y":-370,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"0e6fae694679496f",
+			"styleAttributes":{},
+			"text":"## Load User Profile",
+			"type":"text",
+			"x":-5480,
+			"y":-610,
+			"width":340,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Command Management.md",
+			"id":"0d43964e41638bc3",
+			"styleAttributes":{},
+			"subpath":"#Command Preprocessing",
+			"type":"file",
+			"x":-6000,
+			"y":-390,
+			"width":320,
+			"height":100
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"6da9434e2cd6b5cf",
+			"styleAttributes":{},
+			"subpath":"#File Upsert",
+			"type":"file",
+			"x":-6000,
+			"y":-490,
+			"width":320,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"00ed45a130ccc5db",
+			"styleAttributes":{},
+			"subpath":"#Load User Data",
+			"type":"file",
+			"x":-6000,
+			"y":-610,
+			"width":320,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"88688ea3d654f971",
+			"styleAttributes":{},
+			"subpath":"#Response Candidacy",
+			"type":"file",
+			"x":-6000,
+			"y":-970,
+			"width":320,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"e9390ce0cbb038da",
+			"styleAttributes":{},
+			"subpath":"#Logging",
+			"type":"file",
+			"x":-6000,
+			"y":-1091,
+			"width":320,
+			"height":61
+		},
+		{
+			"id":"bc09e6644ab486c2",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"text":"Incoming Discord API Message",
+			"type":"text",
+			"x":-6660,
+			"y":-850,
+			"width":320,
+			"height":320,
+			"color":"4"
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"04a3e765da5a35f2",
+			"styleAttributes":{},
+			"subpath":"#Message Sterilization",
+			"type":"file",
+			"x":-6000,
+			"y":-730,
+			"width":320,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Master Bot/MBOT - Message Management.md",
+			"id":"99c6c993242b2a0b",
+			"styleAttributes":{},
+			"subpath":"#User Candidacy",
+			"type":"file",
+			"x":-6000,
+			"y":-850,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"9ef77aa24dbc6abb",
+			"styleAttributes":{},
+			"text":"## Master Bot Detection",
+			"type":"text",
+			"x":-4160,
+			"y":-1060,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"33db4e394abc5461",
+			"styleAttributes":{},
+			"text":"## Load User RAM Profile",
+			"type":"text",
+			"x":-3220,
+			"y":-1150,
+			"width":440,
+			"height":50
+		},
+		{
+			"id":"dfb9817635ed784f",
+			"styleAttributes":{},
+			"text":"## Clean Temp dir\n",
+			"type":"text",
+			"x":-4160,
+			"y":-1280,
+			"width":320,
+			"height":60
+		},
+		{
+			"file":"Carly/SimHuman Concept Methodology/Process and Methodology Disambiguation/Queue Bot Disambiguation.md",
+			"id":"98ce9c668481ae29",
+			"styleAttributes":{},
+			"subpath":"#Queue Bot",
+			"type":"file",
+			"x":-4200,
+			"y":-1460,
+			"width":2680,
+			"height":50
+		}
+	]
 }

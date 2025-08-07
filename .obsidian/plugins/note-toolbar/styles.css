@@ -1731,6 +1731,9 @@ body:not(.is-mobile):not(.is-focused), .workspace-leaf:not(.mod-active) {
         border-radius: var(--cg-nt-menu-item-border-radius);
         color: var(--cg-nt-menu-item-text-color);
         font-size: var(--cg-nt-menu-item-font-size);
+        &:hover {
+            background-color: var(--cg-nt-menu-item-bg-color-hover);
+        }
         &.is-label {
             font-size: var(--font-ui-small);
             color: var(--text-muted);
@@ -2187,6 +2190,7 @@ input[type="text"].note-toolbar-setting-error,
     border-top: 1px solid var(--background-modifier-border);
     padding: 8px 0;
     & .setting-item {
+        align-items: center !important;
         border-bottom: none !important;
     }
     & .note-toolbar-setting-item-fields {
@@ -2212,7 +2216,8 @@ input[type="text"].note-toolbar-setting-error,
 .note-toolbar-setting-callout-container,
 .note-toolbar-setting-contexts-container,
 .note-toolbar-setting-items-container,
-.note-toolbar-setting-mappings-container {
+.note-toolbar-setting-mappings-container,
+.note-toolbar-setting-rules-container {
     padding-top: 0.75em;
     & .setting-item {
         .is-phone & {
@@ -2709,6 +2714,28 @@ input[type="text"].note-toolbar-setting-error,
         display: none;
     }
     & .setting-item-control {
+        .is-mobile & {
+            margin-top: 0 !important;
+        }
+    }
+}
+
+.note-toolbar-setting-subfield-advanced-container {
+    width: 100%;
+}
+
+.note-toolbar-setting-subfield-advanced {
+    align-items: center !important;
+    display: flex;
+    flex-direction: row !important;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    & .setting-item-info {
+        display: initial !important;
+    }
+    & .setting-item-control {
+        align-items: flex-end !important;
+        width: auto !important;
         .is-mobile & {
             margin-top: 0 !important;
         }
@@ -3313,6 +3340,17 @@ input[type="text"].note-toolbar-setting-error,
         border-radius: 0.5rem;
         width: 100%;
     }
+    table {
+        border-collapse: collapse;
+        & td, th {
+            border-collapse: collapse;
+            border-color: grey;
+            border-style: solid;
+            border-width: 1px;
+            padding: var(--size-2-2) var(--size-4-2);
+            text-align: start;
+        }
+    }
 }
 
 .note-toolbar-setting-remote-skeleton {
@@ -3329,10 +3367,29 @@ input[type="text"].note-toolbar-setting-error,
     }
 }
 
-.note-toolbar-setting-modal-container {
+.note-toolbar-setting-modal-phone-top-inset-fix {
     .is-phone & {
-        /* fix/workaround for Obsidian v1.5.11 bug: modals opened from settings have an inaccessible close button */
+        /* fix/workaround for Obsidian v1.5.11 bug: tall modals opened from settings have an inaccessible close button */
         top: var(--safe-area-inset-top);
+    }
+}
+
+.note-toolbar-setting-modal-phone-bottom-inset-fix {
+    .is-phone & {
+        padding-bottom: var(--safe-area-inset-bottom);
+    }
+}
+
+.note-toolbar-setting-modal-container {
+    & .modal-close-button {
+        z-index: 2; /* fix for modal title overlapping close button */
+        /* general ux improvement for small screens */
+        .is-mobile & {
+            background-color: var(--background-secondary-alt);
+            border-radius: var(--radius-l);
+            inset-inline-end: var(--size-4-3);
+            top: var(--size-4-3);
+        }
     }
 }
 
@@ -3357,6 +3414,12 @@ input[type="text"].note-toolbar-setting-error,
     min-height: unset;
     & .modal-close-button {
         z-index: 2; /* fix for modal title overlapping close button */
+        .is-mobile & {
+            background-color: var(--background-secondary-alt);
+            border-radius: var(--radius-l);
+            inset-inline-end: var(--size-4-3);
+            top: var(--size-4-3);
+        }
     }
     &.prompt {
         .is-mobile & {

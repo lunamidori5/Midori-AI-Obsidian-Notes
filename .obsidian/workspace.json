@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "2d148ed1b9ac1aa8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
-                "viewState": {
-                  "x": -1864.3747419504928,
-                  "y": 266.2334836912061,
-                  "zoom": -0.16109356993712698
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "SimHuman-Mind V6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,11 +231,11 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "2d148ed1b9ac1aa8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Overview/Homepage.md",
-    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
+    "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
+    "Overview/Homepage.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",
