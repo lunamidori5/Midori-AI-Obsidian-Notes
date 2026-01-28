@@ -20,8 +20,31 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "8b422e05ada5f3b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "8d7ed8bd07057fdc",
+            "type": "leaf",
+            "state": {
+              "type": "ntb-whats-new-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "What's new in Note Toolbar?"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,6 +244,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,11 +255,11 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8d7ed8bd07057fdc",
   "lastOpenFiles": [
+    "Overview/Homepage.md",
     "Carly/SimHuman Concept Methodology/System info/WA-Inst-9-23.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/SimHuman-Mind V6.canvas",
-    "Overview/Homepage.md",
     "Carly/SimHuman Concept Methodology/Process Flow Diagram/v7 Sketching.canvas",
     "Carly/Speech_files/Formalized Presentation Feedback.md",
     "Carly/Speech_files/Formalized Presentation Draft.md",
