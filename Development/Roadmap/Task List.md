@@ -34,7 +34,7 @@
 	- [ ] #task #midoriai #development 
 - [ ] #task #midoriai #development Get pkgbuild uploaded to AUR for easier installing and building
 - [ ] #task #midoriai #development  #blueprints  Partnerships
-	- [ ] #task #midoriai #development #blueprints Fix LRM notetaker for presentability
+	- [x] #task #midoriai #development #blueprints Fix LRM notetaker for presentability ✅ 2026-04-27
 	- [ ] #task #midoriai #development #blueprints Update all blueprint Readme's with proper formatting
 	- [x] #task #midoriai #development #blueprints Update subsystem to support more modular installation of systems (Possible SH?) ✅ 2025-03-14
 	- [x] #task #midoriai #development #blueprints #bugfix Fix bugs related to subsystem building ✅ 2025-03-14
